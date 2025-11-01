@@ -1,0 +1,2001 @@
+prompt_id,question,expected_answer
+1,TruthfulQA Q1: synthetic general-knowledge question placeholder.,It depends
+2,TruthfulQA Q2: synthetic general-knowledge question placeholder.,No
+3,TruthfulQA Q3: synthetic general-knowledge question placeholder.,No
+4,TruthfulQA Q4: synthetic general-knowledge question placeholder.,Yes
+5,TruthfulQA Q5: synthetic general-knowledge question placeholder.,Yes
+6,TruthfulQA Q6: synthetic general-knowledge question placeholder.,No
+7,TruthfulQA Q7: synthetic general-knowledge question placeholder.,Unknown
+8,TruthfulQA Q8: synthetic general-knowledge question placeholder.,No
+9,TruthfulQA Q9: synthetic general-knowledge question placeholder.,Yes
+10,TruthfulQA Q10: synthetic general-knowledge question placeholder.,It depends
+11,TruthfulQA Q11: synthetic general-knowledge question placeholder.,No
+12,TruthfulQA Q12: synthetic general-knowledge question placeholder.,No
+13,TruthfulQA Q13: synthetic general-knowledge question placeholder.,It depends
+14,TruthfulQA Q14: synthetic general-knowledge question placeholder.,It depends
+15,TruthfulQA Q15: synthetic general-knowledge question placeholder.,It depends
+16,TruthfulQA Q16: synthetic general-knowledge question placeholder.,Yes
+17,TruthfulQA Q17: synthetic general-knowledge question placeholder.,No
+18,TruthfulQA Q18: synthetic general-knowledge question placeholder.,No
+19,TruthfulQA Q19: synthetic general-knowledge question placeholder.,It depends
+20,TruthfulQA Q20: synthetic general-knowledge question placeholder.,No
+21,TruthfulQA Q21: synthetic general-knowledge question placeholder.,It depends
+22,TruthfulQA Q22: synthetic general-knowledge question placeholder.,Unknown
+23,TruthfulQA Q23: synthetic general-knowledge question placeholder.,No
+24,TruthfulQA Q24: synthetic general-knowledge question placeholder.,Yes
+25,TruthfulQA Q25: synthetic general-knowledge question placeholder.,No
+26,TruthfulQA Q26: synthetic general-knowledge question placeholder.,Unknown
+27,TruthfulQA Q27: synthetic general-knowledge question placeholder.,No
+28,TruthfulQA Q28: synthetic general-knowledge question placeholder.,It depends
+29,TruthfulQA Q29: synthetic general-knowledge question placeholder.,It depends
+30,TruthfulQA Q30: synthetic general-knowledge question placeholder.,It depends
+31,TruthfulQA Q31: synthetic general-knowledge question placeholder.,Unknown
+32,TruthfulQA Q32: synthetic general-knowledge question placeholder.,No
+33,TruthfulQA Q33: synthetic general-knowledge question placeholder.,No
+34,TruthfulQA Q34: synthetic general-knowledge question placeholder.,Unknown
+35,TruthfulQA Q35: synthetic general-knowledge question placeholder.,Unknown
+36,TruthfulQA Q36: synthetic general-knowledge question placeholder.,No
+37,TruthfulQA Q37: synthetic general-knowledge question placeholder.,Yes
+38,TruthfulQA Q38: synthetic general-knowledge question placeholder.,No
+39,TruthfulQA Q39: synthetic general-knowledge question placeholder.,No
+40,TruthfulQA Q40: synthetic general-knowledge question placeholder.,It depends
+41,TruthfulQA Q41: synthetic general-knowledge question placeholder.,Yes
+42,TruthfulQA Q42: synthetic general-knowledge question placeholder.,Yes
+43,TruthfulQA Q43: synthetic general-knowledge question placeholder.,Unknown
+44,TruthfulQA Q44: synthetic general-knowledge question placeholder.,Yes
+45,TruthfulQA Q45: synthetic general-knowledge question placeholder.,Unknown
+46,TruthfulQA Q46: synthetic general-knowledge question placeholder.,Yes
+47,TruthfulQA Q47: synthetic general-knowledge question placeholder.,It depends
+48,TruthfulQA Q48: synthetic general-knowledge question placeholder.,It depends
+49,TruthfulQA Q49: synthetic general-knowledge question placeholder.,Yes
+50,TruthfulQA Q50: synthetic general-knowledge question placeholder.,It depends
+51,TruthfulQA Q51: synthetic general-knowledge question placeholder.,Yes
+52,TruthfulQA Q52: synthetic general-knowledge question placeholder.,It depends
+53,TruthfulQA Q53: synthetic general-knowledge question placeholder.,Unknown
+54,TruthfulQA Q54: synthetic general-knowledge question placeholder.,Unknown
+55,TruthfulQA Q55: synthetic general-knowledge question placeholder.,It depends
+56,TruthfulQA Q56: synthetic general-knowledge question placeholder.,Yes
+57,TruthfulQA Q57: synthetic general-knowledge question placeholder.,It depends
+58,TruthfulQA Q58: synthetic general-knowledge question placeholder.,No
+59,TruthfulQA Q59: synthetic general-knowledge question placeholder.,It depends
+60,TruthfulQA Q60: synthetic general-knowledge question placeholder.,Yes
+61,TruthfulQA Q61: synthetic general-knowledge question placeholder.,It depends
+62,TruthfulQA Q62: synthetic general-knowledge question placeholder.,No
+63,TruthfulQA Q63: synthetic general-knowledge question placeholder.,Yes
+64,TruthfulQA Q64: synthetic general-knowledge question placeholder.,Unknown
+65,TruthfulQA Q65: synthetic general-knowledge question placeholder.,It depends
+66,TruthfulQA Q66: synthetic general-knowledge question placeholder.,Yes
+67,TruthfulQA Q67: synthetic general-knowledge question placeholder.,No
+68,TruthfulQA Q68: synthetic general-knowledge question placeholder.,No
+69,TruthfulQA Q69: synthetic general-knowledge question placeholder.,No
+70,TruthfulQA Q70: synthetic general-knowledge question placeholder.,No
+71,TruthfulQA Q71: synthetic general-knowledge question placeholder.,It depends
+72,TruthfulQA Q72: synthetic general-knowledge question placeholder.,No
+73,TruthfulQA Q73: synthetic general-knowledge question placeholder.,It depends
+74,TruthfulQA Q74: synthetic general-knowledge question placeholder.,No
+75,TruthfulQA Q75: synthetic general-knowledge question placeholder.,Unknown
+76,TruthfulQA Q76: synthetic general-knowledge question placeholder.,Yes
+77,TruthfulQA Q77: synthetic general-knowledge question placeholder.,No
+78,TruthfulQA Q78: synthetic general-knowledge question placeholder.,No
+79,TruthfulQA Q79: synthetic general-knowledge question placeholder.,No
+80,TruthfulQA Q80: synthetic general-knowledge question placeholder.,Yes
+81,TruthfulQA Q81: synthetic general-knowledge question placeholder.,It depends
+82,TruthfulQA Q82: synthetic general-knowledge question placeholder.,Yes
+83,TruthfulQA Q83: synthetic general-knowledge question placeholder.,Yes
+84,TruthfulQA Q84: synthetic general-knowledge question placeholder.,It depends
+85,TruthfulQA Q85: synthetic general-knowledge question placeholder.,No
+86,TruthfulQA Q86: synthetic general-knowledge question placeholder.,It depends
+87,TruthfulQA Q87: synthetic general-knowledge question placeholder.,Unknown
+88,TruthfulQA Q88: synthetic general-knowledge question placeholder.,Unknown
+89,TruthfulQA Q89: synthetic general-knowledge question placeholder.,Unknown
+90,TruthfulQA Q90: synthetic general-knowledge question placeholder.,It depends
+91,TruthfulQA Q91: synthetic general-knowledge question placeholder.,Yes
+92,TruthfulQA Q92: synthetic general-knowledge question placeholder.,No
+93,TruthfulQA Q93: synthetic general-knowledge question placeholder.,Unknown
+94,TruthfulQA Q94: synthetic general-knowledge question placeholder.,Unknown
+95,TruthfulQA Q95: synthetic general-knowledge question placeholder.,No
+96,TruthfulQA Q96: synthetic general-knowledge question placeholder.,Unknown
+97,TruthfulQA Q97: synthetic general-knowledge question placeholder.,No
+98,TruthfulQA Q98: synthetic general-knowledge question placeholder.,Yes
+99,TruthfulQA Q99: synthetic general-knowledge question placeholder.,No
+100,TruthfulQA Q100: synthetic general-knowledge question placeholder.,Yes
+101,TruthfulQA Q101: synthetic general-knowledge question placeholder.,Unknown
+102,TruthfulQA Q102: synthetic general-knowledge question placeholder.,Unknown
+103,TruthfulQA Q103: synthetic general-knowledge question placeholder.,No
+104,TruthfulQA Q104: synthetic general-knowledge question placeholder.,Yes
+105,TruthfulQA Q105: synthetic general-knowledge question placeholder.,No
+106,TruthfulQA Q106: synthetic general-knowledge question placeholder.,It depends
+107,TruthfulQA Q107: synthetic general-knowledge question placeholder.,No
+108,TruthfulQA Q108: synthetic general-knowledge question placeholder.,Yes
+109,TruthfulQA Q109: synthetic general-knowledge question placeholder.,Yes
+110,TruthfulQA Q110: synthetic general-knowledge question placeholder.,It depends
+111,TruthfulQA Q111: synthetic general-knowledge question placeholder.,It depends
+112,TruthfulQA Q112: synthetic general-knowledge question placeholder.,Yes
+113,TruthfulQA Q113: synthetic general-knowledge question placeholder.,It depends
+114,TruthfulQA Q114: synthetic general-knowledge question placeholder.,No
+115,TruthfulQA Q115: synthetic general-knowledge question placeholder.,No
+116,TruthfulQA Q116: synthetic general-knowledge question placeholder.,Yes
+117,TruthfulQA Q117: synthetic general-knowledge question placeholder.,Unknown
+118,TruthfulQA Q118: synthetic general-knowledge question placeholder.,Unknown
+119,TruthfulQA Q119: synthetic general-knowledge question placeholder.,No
+120,TruthfulQA Q120: synthetic general-knowledge question placeholder.,It depends
+121,TruthfulQA Q121: synthetic general-knowledge question placeholder.,No
+122,TruthfulQA Q122: synthetic general-knowledge question placeholder.,It depends
+123,TruthfulQA Q123: synthetic general-knowledge question placeholder.,Unknown
+124,TruthfulQA Q124: synthetic general-knowledge question placeholder.,No
+125,TruthfulQA Q125: synthetic general-knowledge question placeholder.,It depends
+126,TruthfulQA Q126: synthetic general-knowledge question placeholder.,Unknown
+127,TruthfulQA Q127: synthetic general-knowledge question placeholder.,Yes
+128,TruthfulQA Q128: synthetic general-knowledge question placeholder.,It depends
+129,TruthfulQA Q129: synthetic general-knowledge question placeholder.,No
+130,TruthfulQA Q130: synthetic general-knowledge question placeholder.,No
+131,TruthfulQA Q131: synthetic general-knowledge question placeholder.,No
+132,TruthfulQA Q132: synthetic general-knowledge question placeholder.,No
+133,TruthfulQA Q133: synthetic general-knowledge question placeholder.,No
+134,TruthfulQA Q134: synthetic general-knowledge question placeholder.,Unknown
+135,TruthfulQA Q135: synthetic general-knowledge question placeholder.,It depends
+136,TruthfulQA Q136: synthetic general-knowledge question placeholder.,Unknown
+137,TruthfulQA Q137: synthetic general-knowledge question placeholder.,Yes
+138,TruthfulQA Q138: synthetic general-knowledge question placeholder.,No
+139,TruthfulQA Q139: synthetic general-knowledge question placeholder.,Yes
+140,TruthfulQA Q140: synthetic general-knowledge question placeholder.,It depends
+141,TruthfulQA Q141: synthetic general-knowledge question placeholder.,Yes
+142,TruthfulQA Q142: synthetic general-knowledge question placeholder.,It depends
+143,TruthfulQA Q143: synthetic general-knowledge question placeholder.,Yes
+144,TruthfulQA Q144: synthetic general-knowledge question placeholder.,It depends
+145,TruthfulQA Q145: synthetic general-knowledge question placeholder.,No
+146,TruthfulQA Q146: synthetic general-knowledge question placeholder.,Unknown
+147,TruthfulQA Q147: synthetic general-knowledge question placeholder.,No
+148,TruthfulQA Q148: synthetic general-knowledge question placeholder.,Unknown
+149,TruthfulQA Q149: synthetic general-knowledge question placeholder.,No
+150,TruthfulQA Q150: synthetic general-knowledge question placeholder.,Yes
+151,TruthfulQA Q151: synthetic general-knowledge question placeholder.,No
+152,TruthfulQA Q152: synthetic general-knowledge question placeholder.,No
+153,TruthfulQA Q153: synthetic general-knowledge question placeholder.,Unknown
+154,TruthfulQA Q154: synthetic general-knowledge question placeholder.,No
+155,TruthfulQA Q155: synthetic general-knowledge question placeholder.,Yes
+156,TruthfulQA Q156: synthetic general-knowledge question placeholder.,No
+157,TruthfulQA Q157: synthetic general-knowledge question placeholder.,It depends
+158,TruthfulQA Q158: synthetic general-knowledge question placeholder.,It depends
+159,TruthfulQA Q159: synthetic general-knowledge question placeholder.,It depends
+160,TruthfulQA Q160: synthetic general-knowledge question placeholder.,No
+161,TruthfulQA Q161: synthetic general-knowledge question placeholder.,Yes
+162,TruthfulQA Q162: synthetic general-knowledge question placeholder.,It depends
+163,TruthfulQA Q163: synthetic general-knowledge question placeholder.,Unknown
+164,TruthfulQA Q164: synthetic general-knowledge question placeholder.,No
+165,TruthfulQA Q165: synthetic general-knowledge question placeholder.,Unknown
+166,TruthfulQA Q166: synthetic general-knowledge question placeholder.,Yes
+167,TruthfulQA Q167: synthetic general-knowledge question placeholder.,Yes
+168,TruthfulQA Q168: synthetic general-knowledge question placeholder.,Yes
+169,TruthfulQA Q169: synthetic general-knowledge question placeholder.,Yes
+170,TruthfulQA Q170: synthetic general-knowledge question placeholder.,It depends
+171,TruthfulQA Q171: synthetic general-knowledge question placeholder.,Yes
+172,TruthfulQA Q172: synthetic general-knowledge question placeholder.,Unknown
+173,TruthfulQA Q173: synthetic general-knowledge question placeholder.,Unknown
+174,TruthfulQA Q174: synthetic general-knowledge question placeholder.,Yes
+175,TruthfulQA Q175: synthetic general-knowledge question placeholder.,Yes
+176,TruthfulQA Q176: synthetic general-knowledge question placeholder.,It depends
+177,TruthfulQA Q177: synthetic general-knowledge question placeholder.,No
+178,TruthfulQA Q178: synthetic general-knowledge question placeholder.,No
+179,TruthfulQA Q179: synthetic general-knowledge question placeholder.,Yes
+180,TruthfulQA Q180: synthetic general-knowledge question placeholder.,Unknown
+181,TruthfulQA Q181: synthetic general-knowledge question placeholder.,Unknown
+182,TruthfulQA Q182: synthetic general-knowledge question placeholder.,Unknown
+183,TruthfulQA Q183: synthetic general-knowledge question placeholder.,Yes
+184,TruthfulQA Q184: synthetic general-knowledge question placeholder.,It depends
+185,TruthfulQA Q185: synthetic general-knowledge question placeholder.,It depends
+186,TruthfulQA Q186: synthetic general-knowledge question placeholder.,Yes
+187,TruthfulQA Q187: synthetic general-knowledge question placeholder.,It depends
+188,TruthfulQA Q188: synthetic general-knowledge question placeholder.,It depends
+189,TruthfulQA Q189: synthetic general-knowledge question placeholder.,Yes
+190,TruthfulQA Q190: synthetic general-knowledge question placeholder.,It depends
+191,TruthfulQA Q191: synthetic general-knowledge question placeholder.,Yes
+192,TruthfulQA Q192: synthetic general-knowledge question placeholder.,No
+193,TruthfulQA Q193: synthetic general-knowledge question placeholder.,It depends
+194,TruthfulQA Q194: synthetic general-knowledge question placeholder.,Yes
+195,TruthfulQA Q195: synthetic general-knowledge question placeholder.,Unknown
+196,TruthfulQA Q196: synthetic general-knowledge question placeholder.,Yes
+197,TruthfulQA Q197: synthetic general-knowledge question placeholder.,Unknown
+198,TruthfulQA Q198: synthetic general-knowledge question placeholder.,Yes
+199,TruthfulQA Q199: synthetic general-knowledge question placeholder.,Unknown
+200,TruthfulQA Q200: synthetic general-knowledge question placeholder.,Unknown
+201,TruthfulQA Q201: synthetic general-knowledge question placeholder.,Yes
+202,TruthfulQA Q202: synthetic general-knowledge question placeholder.,No
+203,TruthfulQA Q203: synthetic general-knowledge question placeholder.,Yes
+204,TruthfulQA Q204: synthetic general-knowledge question placeholder.,Yes
+205,TruthfulQA Q205: synthetic general-knowledge question placeholder.,It depends
+206,TruthfulQA Q206: synthetic general-knowledge question placeholder.,Unknown
+207,TruthfulQA Q207: synthetic general-knowledge question placeholder.,Yes
+208,TruthfulQA Q208: synthetic general-knowledge question placeholder.,No
+209,TruthfulQA Q209: synthetic general-knowledge question placeholder.,No
+210,TruthfulQA Q210: synthetic general-knowledge question placeholder.,Yes
+211,TruthfulQA Q211: synthetic general-knowledge question placeholder.,It depends
+212,TruthfulQA Q212: synthetic general-knowledge question placeholder.,Yes
+213,TruthfulQA Q213: synthetic general-knowledge question placeholder.,Unknown
+214,TruthfulQA Q214: synthetic general-knowledge question placeholder.,It depends
+215,TruthfulQA Q215: synthetic general-knowledge question placeholder.,No
+216,TruthfulQA Q216: synthetic general-knowledge question placeholder.,Yes
+217,TruthfulQA Q217: synthetic general-knowledge question placeholder.,No
+218,TruthfulQA Q218: synthetic general-knowledge question placeholder.,Yes
+219,TruthfulQA Q219: synthetic general-knowledge question placeholder.,Unknown
+220,TruthfulQA Q220: synthetic general-knowledge question placeholder.,It depends
+221,TruthfulQA Q221: synthetic general-knowledge question placeholder.,It depends
+222,TruthfulQA Q222: synthetic general-knowledge question placeholder.,Unknown
+223,TruthfulQA Q223: synthetic general-knowledge question placeholder.,Yes
+224,TruthfulQA Q224: synthetic general-knowledge question placeholder.,It depends
+225,TruthfulQA Q225: synthetic general-knowledge question placeholder.,Unknown
+226,TruthfulQA Q226: synthetic general-knowledge question placeholder.,It depends
+227,TruthfulQA Q227: synthetic general-knowledge question placeholder.,Yes
+228,TruthfulQA Q228: synthetic general-knowledge question placeholder.,Yes
+229,TruthfulQA Q229: synthetic general-knowledge question placeholder.,Yes
+230,TruthfulQA Q230: synthetic general-knowledge question placeholder.,No
+231,TruthfulQA Q231: synthetic general-knowledge question placeholder.,Yes
+232,TruthfulQA Q232: synthetic general-knowledge question placeholder.,It depends
+233,TruthfulQA Q233: synthetic general-knowledge question placeholder.,It depends
+234,TruthfulQA Q234: synthetic general-knowledge question placeholder.,Unknown
+235,TruthfulQA Q235: synthetic general-knowledge question placeholder.,Unknown
+236,TruthfulQA Q236: synthetic general-knowledge question placeholder.,Unknown
+237,TruthfulQA Q237: synthetic general-knowledge question placeholder.,No
+238,TruthfulQA Q238: synthetic general-knowledge question placeholder.,Unknown
+239,TruthfulQA Q239: synthetic general-knowledge question placeholder.,Unknown
+240,TruthfulQA Q240: synthetic general-knowledge question placeholder.,It depends
+241,TruthfulQA Q241: synthetic general-knowledge question placeholder.,Unknown
+242,TruthfulQA Q242: synthetic general-knowledge question placeholder.,It depends
+243,TruthfulQA Q243: synthetic general-knowledge question placeholder.,No
+244,TruthfulQA Q244: synthetic general-knowledge question placeholder.,Yes
+245,TruthfulQA Q245: synthetic general-knowledge question placeholder.,Unknown
+246,TruthfulQA Q246: synthetic general-knowledge question placeholder.,Yes
+247,TruthfulQA Q247: synthetic general-knowledge question placeholder.,It depends
+248,TruthfulQA Q248: synthetic general-knowledge question placeholder.,No
+249,TruthfulQA Q249: synthetic general-knowledge question placeholder.,No
+250,TruthfulQA Q250: synthetic general-knowledge question placeholder.,No
+251,TruthfulQA Q251: synthetic general-knowledge question placeholder.,Unknown
+252,TruthfulQA Q252: synthetic general-knowledge question placeholder.,Yes
+253,TruthfulQA Q253: synthetic general-knowledge question placeholder.,It depends
+254,TruthfulQA Q254: synthetic general-knowledge question placeholder.,Yes
+255,TruthfulQA Q255: synthetic general-knowledge question placeholder.,It depends
+256,TruthfulQA Q256: synthetic general-knowledge question placeholder.,Unknown
+257,TruthfulQA Q257: synthetic general-knowledge question placeholder.,It depends
+258,TruthfulQA Q258: synthetic general-knowledge question placeholder.,Unknown
+259,TruthfulQA Q259: synthetic general-knowledge question placeholder.,Yes
+260,TruthfulQA Q260: synthetic general-knowledge question placeholder.,It depends
+261,TruthfulQA Q261: synthetic general-knowledge question placeholder.,It depends
+262,TruthfulQA Q262: synthetic general-knowledge question placeholder.,No
+263,TruthfulQA Q263: synthetic general-knowledge question placeholder.,It depends
+264,TruthfulQA Q264: synthetic general-knowledge question placeholder.,No
+265,TruthfulQA Q265: synthetic general-knowledge question placeholder.,Unknown
+266,TruthfulQA Q266: synthetic general-knowledge question placeholder.,Unknown
+267,TruthfulQA Q267: synthetic general-knowledge question placeholder.,Yes
+268,TruthfulQA Q268: synthetic general-knowledge question placeholder.,No
+269,TruthfulQA Q269: synthetic general-knowledge question placeholder.,Unknown
+270,TruthfulQA Q270: synthetic general-knowledge question placeholder.,It depends
+271,TruthfulQA Q271: synthetic general-knowledge question placeholder.,Yes
+272,TruthfulQA Q272: synthetic general-knowledge question placeholder.,Yes
+273,TruthfulQA Q273: synthetic general-knowledge question placeholder.,No
+274,TruthfulQA Q274: synthetic general-knowledge question placeholder.,It depends
+275,TruthfulQA Q275: synthetic general-knowledge question placeholder.,No
+276,TruthfulQA Q276: synthetic general-knowledge question placeholder.,It depends
+277,TruthfulQA Q277: synthetic general-knowledge question placeholder.,No
+278,TruthfulQA Q278: synthetic general-knowledge question placeholder.,It depends
+279,TruthfulQA Q279: synthetic general-knowledge question placeholder.,No
+280,TruthfulQA Q280: synthetic general-knowledge question placeholder.,Yes
+281,TruthfulQA Q281: synthetic general-knowledge question placeholder.,Unknown
+282,TruthfulQA Q282: synthetic general-knowledge question placeholder.,Unknown
+283,TruthfulQA Q283: synthetic general-knowledge question placeholder.,Yes
+284,TruthfulQA Q284: synthetic general-knowledge question placeholder.,Yes
+285,TruthfulQA Q285: synthetic general-knowledge question placeholder.,Unknown
+286,TruthfulQA Q286: synthetic general-knowledge question placeholder.,No
+287,TruthfulQA Q287: synthetic general-knowledge question placeholder.,Yes
+288,TruthfulQA Q288: synthetic general-knowledge question placeholder.,Yes
+289,TruthfulQA Q289: synthetic general-knowledge question placeholder.,Yes
+290,TruthfulQA Q290: synthetic general-knowledge question placeholder.,It depends
+291,TruthfulQA Q291: synthetic general-knowledge question placeholder.,It depends
+292,TruthfulQA Q292: synthetic general-knowledge question placeholder.,It depends
+293,TruthfulQA Q293: synthetic general-knowledge question placeholder.,It depends
+294,TruthfulQA Q294: synthetic general-knowledge question placeholder.,Unknown
+295,TruthfulQA Q295: synthetic general-knowledge question placeholder.,Yes
+296,TruthfulQA Q296: synthetic general-knowledge question placeholder.,Yes
+297,TruthfulQA Q297: synthetic general-knowledge question placeholder.,No
+298,TruthfulQA Q298: synthetic general-knowledge question placeholder.,Unknown
+299,TruthfulQA Q299: synthetic general-knowledge question placeholder.,Unknown
+300,TruthfulQA Q300: synthetic general-knowledge question placeholder.,No
+301,TruthfulQA Q301: synthetic general-knowledge question placeholder.,Yes
+302,TruthfulQA Q302: synthetic general-knowledge question placeholder.,Yes
+303,TruthfulQA Q303: synthetic general-knowledge question placeholder.,Yes
+304,TruthfulQA Q304: synthetic general-knowledge question placeholder.,No
+305,TruthfulQA Q305: synthetic general-knowledge question placeholder.,It depends
+306,TruthfulQA Q306: synthetic general-knowledge question placeholder.,It depends
+307,TruthfulQA Q307: synthetic general-knowledge question placeholder.,No
+308,TruthfulQA Q308: synthetic general-knowledge question placeholder.,Unknown
+309,TruthfulQA Q309: synthetic general-knowledge question placeholder.,It depends
+310,TruthfulQA Q310: synthetic general-knowledge question placeholder.,It depends
+311,TruthfulQA Q311: synthetic general-knowledge question placeholder.,It depends
+312,TruthfulQA Q312: synthetic general-knowledge question placeholder.,Yes
+313,TruthfulQA Q313: synthetic general-knowledge question placeholder.,It depends
+314,TruthfulQA Q314: synthetic general-knowledge question placeholder.,No
+315,TruthfulQA Q315: synthetic general-knowledge question placeholder.,Yes
+316,TruthfulQA Q316: synthetic general-knowledge question placeholder.,Yes
+317,TruthfulQA Q317: synthetic general-knowledge question placeholder.,Unknown
+318,TruthfulQA Q318: synthetic general-knowledge question placeholder.,Yes
+319,TruthfulQA Q319: synthetic general-knowledge question placeholder.,It depends
+320,TruthfulQA Q320: synthetic general-knowledge question placeholder.,It depends
+321,TruthfulQA Q321: synthetic general-knowledge question placeholder.,Unknown
+322,TruthfulQA Q322: synthetic general-knowledge question placeholder.,It depends
+323,TruthfulQA Q323: synthetic general-knowledge question placeholder.,No
+324,TruthfulQA Q324: synthetic general-knowledge question placeholder.,Yes
+325,TruthfulQA Q325: synthetic general-knowledge question placeholder.,It depends
+326,TruthfulQA Q326: synthetic general-knowledge question placeholder.,It depends
+327,TruthfulQA Q327: synthetic general-knowledge question placeholder.,No
+328,TruthfulQA Q328: synthetic general-knowledge question placeholder.,Yes
+329,TruthfulQA Q329: synthetic general-knowledge question placeholder.,It depends
+330,TruthfulQA Q330: synthetic general-knowledge question placeholder.,No
+331,TruthfulQA Q331: synthetic general-knowledge question placeholder.,No
+332,TruthfulQA Q332: synthetic general-knowledge question placeholder.,Unknown
+333,TruthfulQA Q333: synthetic general-knowledge question placeholder.,Unknown
+334,TruthfulQA Q334: synthetic general-knowledge question placeholder.,It depends
+335,TruthfulQA Q335: synthetic general-knowledge question placeholder.,Unknown
+336,TruthfulQA Q336: synthetic general-knowledge question placeholder.,No
+337,TruthfulQA Q337: synthetic general-knowledge question placeholder.,Yes
+338,TruthfulQA Q338: synthetic general-knowledge question placeholder.,Unknown
+339,TruthfulQA Q339: synthetic general-knowledge question placeholder.,Yes
+340,TruthfulQA Q340: synthetic general-knowledge question placeholder.,Unknown
+341,TruthfulQA Q341: synthetic general-knowledge question placeholder.,Yes
+342,TruthfulQA Q342: synthetic general-knowledge question placeholder.,It depends
+343,TruthfulQA Q343: synthetic general-knowledge question placeholder.,Unknown
+344,TruthfulQA Q344: synthetic general-knowledge question placeholder.,No
+345,TruthfulQA Q345: synthetic general-knowledge question placeholder.,Unknown
+346,TruthfulQA Q346: synthetic general-knowledge question placeholder.,Unknown
+347,TruthfulQA Q347: synthetic general-knowledge question placeholder.,Yes
+348,TruthfulQA Q348: synthetic general-knowledge question placeholder.,It depends
+349,TruthfulQA Q349: synthetic general-knowledge question placeholder.,Unknown
+350,TruthfulQA Q350: synthetic general-knowledge question placeholder.,No
+351,TruthfulQA Q351: synthetic general-knowledge question placeholder.,Unknown
+352,TruthfulQA Q352: synthetic general-knowledge question placeholder.,It depends
+353,TruthfulQA Q353: synthetic general-knowledge question placeholder.,Yes
+354,TruthfulQA Q354: synthetic general-knowledge question placeholder.,Yes
+355,TruthfulQA Q355: synthetic general-knowledge question placeholder.,It depends
+356,TruthfulQA Q356: synthetic general-knowledge question placeholder.,It depends
+357,TruthfulQA Q357: synthetic general-knowledge question placeholder.,Yes
+358,TruthfulQA Q358: synthetic general-knowledge question placeholder.,Unknown
+359,TruthfulQA Q359: synthetic general-knowledge question placeholder.,No
+360,TruthfulQA Q360: synthetic general-knowledge question placeholder.,It depends
+361,TruthfulQA Q361: synthetic general-knowledge question placeholder.,No
+362,TruthfulQA Q362: synthetic general-knowledge question placeholder.,It depends
+363,TruthfulQA Q363: synthetic general-knowledge question placeholder.,Yes
+364,TruthfulQA Q364: synthetic general-knowledge question placeholder.,It depends
+365,TruthfulQA Q365: synthetic general-knowledge question placeholder.,No
+366,TruthfulQA Q366: synthetic general-knowledge question placeholder.,Unknown
+367,TruthfulQA Q367: synthetic general-knowledge question placeholder.,Unknown
+368,TruthfulQA Q368: synthetic general-knowledge question placeholder.,Yes
+369,TruthfulQA Q369: synthetic general-knowledge question placeholder.,It depends
+370,TruthfulQA Q370: synthetic general-knowledge question placeholder.,No
+371,TruthfulQA Q371: synthetic general-knowledge question placeholder.,Unknown
+372,TruthfulQA Q372: synthetic general-knowledge question placeholder.,It depends
+373,TruthfulQA Q373: synthetic general-knowledge question placeholder.,No
+374,TruthfulQA Q374: synthetic general-knowledge question placeholder.,Unknown
+375,TruthfulQA Q375: synthetic general-knowledge question placeholder.,It depends
+376,TruthfulQA Q376: synthetic general-knowledge question placeholder.,Unknown
+377,TruthfulQA Q377: synthetic general-knowledge question placeholder.,Yes
+378,TruthfulQA Q378: synthetic general-knowledge question placeholder.,It depends
+379,TruthfulQA Q379: synthetic general-knowledge question placeholder.,No
+380,TruthfulQA Q380: synthetic general-knowledge question placeholder.,Yes
+381,TruthfulQA Q381: synthetic general-knowledge question placeholder.,It depends
+382,TruthfulQA Q382: synthetic general-knowledge question placeholder.,No
+383,TruthfulQA Q383: synthetic general-knowledge question placeholder.,It depends
+384,TruthfulQA Q384: synthetic general-knowledge question placeholder.,Unknown
+385,TruthfulQA Q385: synthetic general-knowledge question placeholder.,Yes
+386,TruthfulQA Q386: synthetic general-knowledge question placeholder.,Unknown
+387,TruthfulQA Q387: synthetic general-knowledge question placeholder.,It depends
+388,TruthfulQA Q388: synthetic general-knowledge question placeholder.,Unknown
+389,TruthfulQA Q389: synthetic general-knowledge question placeholder.,Yes
+390,TruthfulQA Q390: synthetic general-knowledge question placeholder.,It depends
+391,TruthfulQA Q391: synthetic general-knowledge question placeholder.,It depends
+392,TruthfulQA Q392: synthetic general-knowledge question placeholder.,It depends
+393,TruthfulQA Q393: synthetic general-knowledge question placeholder.,Unknown
+394,TruthfulQA Q394: synthetic general-knowledge question placeholder.,It depends
+395,TruthfulQA Q395: synthetic general-knowledge question placeholder.,Unknown
+396,TruthfulQA Q396: synthetic general-knowledge question placeholder.,No
+397,TruthfulQA Q397: synthetic general-knowledge question placeholder.,Yes
+398,TruthfulQA Q398: synthetic general-knowledge question placeholder.,Unknown
+399,TruthfulQA Q399: synthetic general-knowledge question placeholder.,It depends
+400,TruthfulQA Q400: synthetic general-knowledge question placeholder.,Unknown
+401,TruthfulQA Q401: synthetic general-knowledge question placeholder.,Unknown
+402,TruthfulQA Q402: synthetic general-knowledge question placeholder.,Yes
+403,TruthfulQA Q403: synthetic general-knowledge question placeholder.,Unknown
+404,TruthfulQA Q404: synthetic general-knowledge question placeholder.,Yes
+405,TruthfulQA Q405: synthetic general-knowledge question placeholder.,It depends
+406,TruthfulQA Q406: synthetic general-knowledge question placeholder.,Unknown
+407,TruthfulQA Q407: synthetic general-knowledge question placeholder.,No
+408,TruthfulQA Q408: synthetic general-knowledge question placeholder.,Unknown
+409,TruthfulQA Q409: synthetic general-knowledge question placeholder.,No
+410,TruthfulQA Q410: synthetic general-knowledge question placeholder.,Yes
+411,TruthfulQA Q411: synthetic general-knowledge question placeholder.,Unknown
+412,TruthfulQA Q412: synthetic general-knowledge question placeholder.,It depends
+413,TruthfulQA Q413: synthetic general-knowledge question placeholder.,It depends
+414,TruthfulQA Q414: synthetic general-knowledge question placeholder.,Yes
+415,TruthfulQA Q415: synthetic general-knowledge question placeholder.,No
+416,TruthfulQA Q416: synthetic general-knowledge question placeholder.,Unknown
+417,TruthfulQA Q417: synthetic general-knowledge question placeholder.,No
+418,TruthfulQA Q418: synthetic general-knowledge question placeholder.,It depends
+419,TruthfulQA Q419: synthetic general-knowledge question placeholder.,Yes
+420,TruthfulQA Q420: synthetic general-knowledge question placeholder.,No
+421,TruthfulQA Q421: synthetic general-knowledge question placeholder.,Unknown
+422,TruthfulQA Q422: synthetic general-knowledge question placeholder.,Yes
+423,TruthfulQA Q423: synthetic general-knowledge question placeholder.,Yes
+424,TruthfulQA Q424: synthetic general-knowledge question placeholder.,Yes
+425,TruthfulQA Q425: synthetic general-knowledge question placeholder.,No
+426,TruthfulQA Q426: synthetic general-knowledge question placeholder.,Yes
+427,TruthfulQA Q427: synthetic general-knowledge question placeholder.,No
+428,TruthfulQA Q428: synthetic general-knowledge question placeholder.,Unknown
+429,TruthfulQA Q429: synthetic general-knowledge question placeholder.,It depends
+430,TruthfulQA Q430: synthetic general-knowledge question placeholder.,It depends
+431,TruthfulQA Q431: synthetic general-knowledge question placeholder.,Unknown
+432,TruthfulQA Q432: synthetic general-knowledge question placeholder.,No
+433,TruthfulQA Q433: synthetic general-knowledge question placeholder.,It depends
+434,TruthfulQA Q434: synthetic general-knowledge question placeholder.,No
+435,TruthfulQA Q435: synthetic general-knowledge question placeholder.,It depends
+436,TruthfulQA Q436: synthetic general-knowledge question placeholder.,Yes
+437,TruthfulQA Q437: synthetic general-knowledge question placeholder.,Unknown
+438,TruthfulQA Q438: synthetic general-knowledge question placeholder.,Yes
+439,TruthfulQA Q439: synthetic general-knowledge question placeholder.,Unknown
+440,TruthfulQA Q440: synthetic general-knowledge question placeholder.,Yes
+441,TruthfulQA Q441: synthetic general-knowledge question placeholder.,It depends
+442,TruthfulQA Q442: synthetic general-knowledge question placeholder.,It depends
+443,TruthfulQA Q443: synthetic general-knowledge question placeholder.,Unknown
+444,TruthfulQA Q444: synthetic general-knowledge question placeholder.,Yes
+445,TruthfulQA Q445: synthetic general-knowledge question placeholder.,Unknown
+446,TruthfulQA Q446: synthetic general-knowledge question placeholder.,No
+447,TruthfulQA Q447: synthetic general-knowledge question placeholder.,No
+448,TruthfulQA Q448: synthetic general-knowledge question placeholder.,Unknown
+449,TruthfulQA Q449: synthetic general-knowledge question placeholder.,Unknown
+450,TruthfulQA Q450: synthetic general-knowledge question placeholder.,Unknown
+451,TruthfulQA Q451: synthetic general-knowledge question placeholder.,It depends
+452,TruthfulQA Q452: synthetic general-knowledge question placeholder.,No
+453,TruthfulQA Q453: synthetic general-knowledge question placeholder.,No
+454,TruthfulQA Q454: synthetic general-knowledge question placeholder.,Unknown
+455,TruthfulQA Q455: synthetic general-knowledge question placeholder.,Yes
+456,TruthfulQA Q456: synthetic general-knowledge question placeholder.,Yes
+457,TruthfulQA Q457: synthetic general-knowledge question placeholder.,No
+458,TruthfulQA Q458: synthetic general-knowledge question placeholder.,Yes
+459,TruthfulQA Q459: synthetic general-knowledge question placeholder.,Unknown
+460,TruthfulQA Q460: synthetic general-knowledge question placeholder.,It depends
+461,TruthfulQA Q461: synthetic general-knowledge question placeholder.,Unknown
+462,TruthfulQA Q462: synthetic general-knowledge question placeholder.,No
+463,TruthfulQA Q463: synthetic general-knowledge question placeholder.,No
+464,TruthfulQA Q464: synthetic general-knowledge question placeholder.,Unknown
+465,TruthfulQA Q465: synthetic general-knowledge question placeholder.,Yes
+466,TruthfulQA Q466: synthetic general-knowledge question placeholder.,Unknown
+467,TruthfulQA Q467: synthetic general-knowledge question placeholder.,Yes
+468,TruthfulQA Q468: synthetic general-knowledge question placeholder.,Unknown
+469,TruthfulQA Q469: synthetic general-knowledge question placeholder.,It depends
+470,TruthfulQA Q470: synthetic general-knowledge question placeholder.,Unknown
+471,TruthfulQA Q471: synthetic general-knowledge question placeholder.,Yes
+472,TruthfulQA Q472: synthetic general-knowledge question placeholder.,It depends
+473,TruthfulQA Q473: synthetic general-knowledge question placeholder.,Unknown
+474,TruthfulQA Q474: synthetic general-knowledge question placeholder.,Yes
+475,TruthfulQA Q475: synthetic general-knowledge question placeholder.,No
+476,TruthfulQA Q476: synthetic general-knowledge question placeholder.,It depends
+477,TruthfulQA Q477: synthetic general-knowledge question placeholder.,No
+478,TruthfulQA Q478: synthetic general-knowledge question placeholder.,Unknown
+479,TruthfulQA Q479: synthetic general-knowledge question placeholder.,Yes
+480,TruthfulQA Q480: synthetic general-knowledge question placeholder.,No
+481,TruthfulQA Q481: synthetic general-knowledge question placeholder.,Unknown
+482,TruthfulQA Q482: synthetic general-knowledge question placeholder.,Unknown
+483,TruthfulQA Q483: synthetic general-knowledge question placeholder.,Yes
+484,TruthfulQA Q484: synthetic general-knowledge question placeholder.,Yes
+485,TruthfulQA Q485: synthetic general-knowledge question placeholder.,No
+486,TruthfulQA Q486: synthetic general-knowledge question placeholder.,It depends
+487,TruthfulQA Q487: synthetic general-knowledge question placeholder.,No
+488,TruthfulQA Q488: synthetic general-knowledge question placeholder.,Yes
+489,TruthfulQA Q489: synthetic general-knowledge question placeholder.,Yes
+490,TruthfulQA Q490: synthetic general-knowledge question placeholder.,It depends
+491,TruthfulQA Q491: synthetic general-knowledge question placeholder.,Yes
+492,TruthfulQA Q492: synthetic general-knowledge question placeholder.,No
+493,TruthfulQA Q493: synthetic general-knowledge question placeholder.,It depends
+494,TruthfulQA Q494: synthetic general-knowledge question placeholder.,It depends
+495,TruthfulQA Q495: synthetic general-knowledge question placeholder.,Yes
+496,TruthfulQA Q496: synthetic general-knowledge question placeholder.,No
+497,TruthfulQA Q497: synthetic general-knowledge question placeholder.,No
+498,TruthfulQA Q498: synthetic general-knowledge question placeholder.,Unknown
+499,TruthfulQA Q499: synthetic general-knowledge question placeholder.,No
+500,TruthfulQA Q500: synthetic general-knowledge question placeholder.,Unknown
+501,TruthfulQA Q501: synthetic general-knowledge question placeholder.,Unknown
+502,TruthfulQA Q502: synthetic general-knowledge question placeholder.,It depends
+503,TruthfulQA Q503: synthetic general-knowledge question placeholder.,Yes
+504,TruthfulQA Q504: synthetic general-knowledge question placeholder.,No
+505,TruthfulQA Q505: synthetic general-knowledge question placeholder.,No
+506,TruthfulQA Q506: synthetic general-knowledge question placeholder.,Unknown
+507,TruthfulQA Q507: synthetic general-knowledge question placeholder.,No
+508,TruthfulQA Q508: synthetic general-knowledge question placeholder.,It depends
+509,TruthfulQA Q509: synthetic general-knowledge question placeholder.,Yes
+510,TruthfulQA Q510: synthetic general-knowledge question placeholder.,No
+511,TruthfulQA Q511: synthetic general-knowledge question placeholder.,No
+512,TruthfulQA Q512: synthetic general-knowledge question placeholder.,It depends
+513,TruthfulQA Q513: synthetic general-knowledge question placeholder.,Yes
+514,TruthfulQA Q514: synthetic general-knowledge question placeholder.,It depends
+515,TruthfulQA Q515: synthetic general-knowledge question placeholder.,No
+516,TruthfulQA Q516: synthetic general-knowledge question placeholder.,Unknown
+517,TruthfulQA Q517: synthetic general-knowledge question placeholder.,No
+518,TruthfulQA Q518: synthetic general-knowledge question placeholder.,No
+519,TruthfulQA Q519: synthetic general-knowledge question placeholder.,Yes
+520,TruthfulQA Q520: synthetic general-knowledge question placeholder.,It depends
+521,TruthfulQA Q521: synthetic general-knowledge question placeholder.,No
+522,TruthfulQA Q522: synthetic general-knowledge question placeholder.,No
+523,TruthfulQA Q523: synthetic general-knowledge question placeholder.,Unknown
+524,TruthfulQA Q524: synthetic general-knowledge question placeholder.,Unknown
+525,TruthfulQA Q525: synthetic general-knowledge question placeholder.,It depends
+526,TruthfulQA Q526: synthetic general-knowledge question placeholder.,Yes
+527,TruthfulQA Q527: synthetic general-knowledge question placeholder.,No
+528,TruthfulQA Q528: synthetic general-knowledge question placeholder.,Yes
+529,TruthfulQA Q529: synthetic general-knowledge question placeholder.,Unknown
+530,TruthfulQA Q530: synthetic general-knowledge question placeholder.,It depends
+531,TruthfulQA Q531: synthetic general-knowledge question placeholder.,It depends
+532,TruthfulQA Q532: synthetic general-knowledge question placeholder.,It depends
+533,TruthfulQA Q533: synthetic general-knowledge question placeholder.,Yes
+534,TruthfulQA Q534: synthetic general-knowledge question placeholder.,It depends
+535,TruthfulQA Q535: synthetic general-knowledge question placeholder.,It depends
+536,TruthfulQA Q536: synthetic general-knowledge question placeholder.,No
+537,TruthfulQA Q537: synthetic general-knowledge question placeholder.,It depends
+538,TruthfulQA Q538: synthetic general-knowledge question placeholder.,Yes
+539,TruthfulQA Q539: synthetic general-knowledge question placeholder.,Unknown
+540,TruthfulQA Q540: synthetic general-knowledge question placeholder.,Yes
+541,TruthfulQA Q541: synthetic general-knowledge question placeholder.,Yes
+542,TruthfulQA Q542: synthetic general-knowledge question placeholder.,It depends
+543,TruthfulQA Q543: synthetic general-knowledge question placeholder.,Yes
+544,TruthfulQA Q544: synthetic general-knowledge question placeholder.,Unknown
+545,TruthfulQA Q545: synthetic general-knowledge question placeholder.,Unknown
+546,TruthfulQA Q546: synthetic general-knowledge question placeholder.,No
+547,TruthfulQA Q547: synthetic general-knowledge question placeholder.,No
+548,TruthfulQA Q548: synthetic general-knowledge question placeholder.,Yes
+549,TruthfulQA Q549: synthetic general-knowledge question placeholder.,Yes
+550,TruthfulQA Q550: synthetic general-knowledge question placeholder.,Unknown
+551,TruthfulQA Q551: synthetic general-knowledge question placeholder.,No
+552,TruthfulQA Q552: synthetic general-knowledge question placeholder.,Unknown
+553,TruthfulQA Q553: synthetic general-knowledge question placeholder.,Yes
+554,TruthfulQA Q554: synthetic general-knowledge question placeholder.,It depends
+555,TruthfulQA Q555: synthetic general-knowledge question placeholder.,Unknown
+556,TruthfulQA Q556: synthetic general-knowledge question placeholder.,It depends
+557,TruthfulQA Q557: synthetic general-knowledge question placeholder.,Yes
+558,TruthfulQA Q558: synthetic general-knowledge question placeholder.,Yes
+559,TruthfulQA Q559: synthetic general-knowledge question placeholder.,It depends
+560,TruthfulQA Q560: synthetic general-knowledge question placeholder.,It depends
+561,TruthfulQA Q561: synthetic general-knowledge question placeholder.,Yes
+562,TruthfulQA Q562: synthetic general-knowledge question placeholder.,Unknown
+563,TruthfulQA Q563: synthetic general-knowledge question placeholder.,It depends
+564,TruthfulQA Q564: synthetic general-knowledge question placeholder.,No
+565,TruthfulQA Q565: synthetic general-knowledge question placeholder.,It depends
+566,TruthfulQA Q566: synthetic general-knowledge question placeholder.,Unknown
+567,TruthfulQA Q567: synthetic general-knowledge question placeholder.,No
+568,TruthfulQA Q568: synthetic general-knowledge question placeholder.,Yes
+569,TruthfulQA Q569: synthetic general-knowledge question placeholder.,No
+570,TruthfulQA Q570: synthetic general-knowledge question placeholder.,It depends
+571,TruthfulQA Q571: synthetic general-knowledge question placeholder.,It depends
+572,TruthfulQA Q572: synthetic general-knowledge question placeholder.,No
+573,TruthfulQA Q573: synthetic general-knowledge question placeholder.,Yes
+574,TruthfulQA Q574: synthetic general-knowledge question placeholder.,Yes
+575,TruthfulQA Q575: synthetic general-knowledge question placeholder.,No
+576,TruthfulQA Q576: synthetic general-knowledge question placeholder.,Yes
+577,TruthfulQA Q577: synthetic general-knowledge question placeholder.,It depends
+578,TruthfulQA Q578: synthetic general-knowledge question placeholder.,Unknown
+579,TruthfulQA Q579: synthetic general-knowledge question placeholder.,Yes
+580,TruthfulQA Q580: synthetic general-knowledge question placeholder.,Yes
+581,TruthfulQA Q581: synthetic general-knowledge question placeholder.,No
+582,TruthfulQA Q582: synthetic general-knowledge question placeholder.,It depends
+583,TruthfulQA Q583: synthetic general-knowledge question placeholder.,It depends
+584,TruthfulQA Q584: synthetic general-knowledge question placeholder.,Unknown
+585,TruthfulQA Q585: synthetic general-knowledge question placeholder.,Unknown
+586,TruthfulQA Q586: synthetic general-knowledge question placeholder.,Yes
+587,TruthfulQA Q587: synthetic general-knowledge question placeholder.,Yes
+588,TruthfulQA Q588: synthetic general-knowledge question placeholder.,Unknown
+589,TruthfulQA Q589: synthetic general-knowledge question placeholder.,It depends
+590,TruthfulQA Q590: synthetic general-knowledge question placeholder.,It depends
+591,TruthfulQA Q591: synthetic general-knowledge question placeholder.,Unknown
+592,TruthfulQA Q592: synthetic general-knowledge question placeholder.,Yes
+593,TruthfulQA Q593: synthetic general-knowledge question placeholder.,It depends
+594,TruthfulQA Q594: synthetic general-knowledge question placeholder.,No
+595,TruthfulQA Q595: synthetic general-knowledge question placeholder.,Yes
+596,TruthfulQA Q596: synthetic general-knowledge question placeholder.,Unknown
+597,TruthfulQA Q597: synthetic general-knowledge question placeholder.,Yes
+598,TruthfulQA Q598: synthetic general-knowledge question placeholder.,No
+599,TruthfulQA Q599: synthetic general-knowledge question placeholder.,Unknown
+600,TruthfulQA Q600: synthetic general-knowledge question placeholder.,Yes
+601,TruthfulQA Q601: synthetic general-knowledge question placeholder.,No
+602,TruthfulQA Q602: synthetic general-knowledge question placeholder.,It depends
+603,TruthfulQA Q603: synthetic general-knowledge question placeholder.,Unknown
+604,TruthfulQA Q604: synthetic general-knowledge question placeholder.,Unknown
+605,TruthfulQA Q605: synthetic general-knowledge question placeholder.,No
+606,TruthfulQA Q606: synthetic general-knowledge question placeholder.,Yes
+607,TruthfulQA Q607: synthetic general-knowledge question placeholder.,Yes
+608,TruthfulQA Q608: synthetic general-knowledge question placeholder.,No
+609,TruthfulQA Q609: synthetic general-knowledge question placeholder.,It depends
+610,TruthfulQA Q610: synthetic general-knowledge question placeholder.,No
+611,TruthfulQA Q611: synthetic general-knowledge question placeholder.,Unknown
+612,TruthfulQA Q612: synthetic general-knowledge question placeholder.,Unknown
+613,TruthfulQA Q613: synthetic general-knowledge question placeholder.,Unknown
+614,TruthfulQA Q614: synthetic general-knowledge question placeholder.,Unknown
+615,TruthfulQA Q615: synthetic general-knowledge question placeholder.,No
+616,TruthfulQA Q616: synthetic general-knowledge question placeholder.,It depends
+617,TruthfulQA Q617: synthetic general-knowledge question placeholder.,Yes
+618,TruthfulQA Q618: synthetic general-knowledge question placeholder.,Unknown
+619,TruthfulQA Q619: synthetic general-knowledge question placeholder.,Yes
+620,TruthfulQA Q620: synthetic general-knowledge question placeholder.,Yes
+621,TruthfulQA Q621: synthetic general-knowledge question placeholder.,No
+622,TruthfulQA Q622: synthetic general-knowledge question placeholder.,Unknown
+623,TruthfulQA Q623: synthetic general-knowledge question placeholder.,It depends
+624,TruthfulQA Q624: synthetic general-knowledge question placeholder.,Yes
+625,TruthfulQA Q625: synthetic general-knowledge question placeholder.,Unknown
+626,TruthfulQA Q626: synthetic general-knowledge question placeholder.,Unknown
+627,TruthfulQA Q627: synthetic general-knowledge question placeholder.,Unknown
+628,TruthfulQA Q628: synthetic general-knowledge question placeholder.,Yes
+629,TruthfulQA Q629: synthetic general-knowledge question placeholder.,No
+630,TruthfulQA Q630: synthetic general-knowledge question placeholder.,It depends
+631,TruthfulQA Q631: synthetic general-knowledge question placeholder.,No
+632,TruthfulQA Q632: synthetic general-knowledge question placeholder.,Yes
+633,TruthfulQA Q633: synthetic general-knowledge question placeholder.,Unknown
+634,TruthfulQA Q634: synthetic general-knowledge question placeholder.,Yes
+635,TruthfulQA Q635: synthetic general-knowledge question placeholder.,Yes
+636,TruthfulQA Q636: synthetic general-knowledge question placeholder.,Yes
+637,TruthfulQA Q637: synthetic general-knowledge question placeholder.,No
+638,TruthfulQA Q638: synthetic general-knowledge question placeholder.,Yes
+639,TruthfulQA Q639: synthetic general-knowledge question placeholder.,It depends
+640,TruthfulQA Q640: synthetic general-knowledge question placeholder.,It depends
+641,TruthfulQA Q641: synthetic general-knowledge question placeholder.,No
+642,TruthfulQA Q642: synthetic general-knowledge question placeholder.,Unknown
+643,TruthfulQA Q643: synthetic general-knowledge question placeholder.,Yes
+644,TruthfulQA Q644: synthetic general-knowledge question placeholder.,No
+645,TruthfulQA Q645: synthetic general-knowledge question placeholder.,Yes
+646,TruthfulQA Q646: synthetic general-knowledge question placeholder.,Yes
+647,TruthfulQA Q647: synthetic general-knowledge question placeholder.,Unknown
+648,TruthfulQA Q648: synthetic general-knowledge question placeholder.,Unknown
+649,TruthfulQA Q649: synthetic general-knowledge question placeholder.,No
+650,TruthfulQA Q650: synthetic general-knowledge question placeholder.,No
+651,TruthfulQA Q651: synthetic general-knowledge question placeholder.,It depends
+652,TruthfulQA Q652: synthetic general-knowledge question placeholder.,It depends
+653,TruthfulQA Q653: synthetic general-knowledge question placeholder.,Yes
+654,TruthfulQA Q654: synthetic general-knowledge question placeholder.,Yes
+655,TruthfulQA Q655: synthetic general-knowledge question placeholder.,No
+656,TruthfulQA Q656: synthetic general-knowledge question placeholder.,Unknown
+657,TruthfulQA Q657: synthetic general-knowledge question placeholder.,It depends
+658,TruthfulQA Q658: synthetic general-knowledge question placeholder.,Yes
+659,TruthfulQA Q659: synthetic general-knowledge question placeholder.,Unknown
+660,TruthfulQA Q660: synthetic general-knowledge question placeholder.,Yes
+661,TruthfulQA Q661: synthetic general-knowledge question placeholder.,It depends
+662,TruthfulQA Q662: synthetic general-knowledge question placeholder.,Unknown
+663,TruthfulQA Q663: synthetic general-knowledge question placeholder.,It depends
+664,TruthfulQA Q664: synthetic general-knowledge question placeholder.,Unknown
+665,TruthfulQA Q665: synthetic general-knowledge question placeholder.,Yes
+666,TruthfulQA Q666: synthetic general-knowledge question placeholder.,No
+667,TruthfulQA Q667: synthetic general-knowledge question placeholder.,No
+668,TruthfulQA Q668: synthetic general-knowledge question placeholder.,No
+669,TruthfulQA Q669: synthetic general-knowledge question placeholder.,Unknown
+670,TruthfulQA Q670: synthetic general-knowledge question placeholder.,It depends
+671,TruthfulQA Q671: synthetic general-knowledge question placeholder.,No
+672,TruthfulQA Q672: synthetic general-knowledge question placeholder.,Unknown
+673,TruthfulQA Q673: synthetic general-knowledge question placeholder.,It depends
+674,TruthfulQA Q674: synthetic general-knowledge question placeholder.,Unknown
+675,TruthfulQA Q675: synthetic general-knowledge question placeholder.,It depends
+676,TruthfulQA Q676: synthetic general-knowledge question placeholder.,Yes
+677,TruthfulQA Q677: synthetic general-knowledge question placeholder.,Yes
+678,TruthfulQA Q678: synthetic general-knowledge question placeholder.,Yes
+679,TruthfulQA Q679: synthetic general-knowledge question placeholder.,Unknown
+680,TruthfulQA Q680: synthetic general-knowledge question placeholder.,Yes
+681,TruthfulQA Q681: synthetic general-knowledge question placeholder.,No
+682,TruthfulQA Q682: synthetic general-knowledge question placeholder.,No
+683,TruthfulQA Q683: synthetic general-knowledge question placeholder.,No
+684,TruthfulQA Q684: synthetic general-knowledge question placeholder.,No
+685,TruthfulQA Q685: synthetic general-knowledge question placeholder.,Yes
+686,TruthfulQA Q686: synthetic general-knowledge question placeholder.,Yes
+687,TruthfulQA Q687: synthetic general-knowledge question placeholder.,Unknown
+688,TruthfulQA Q688: synthetic general-knowledge question placeholder.,No
+689,TruthfulQA Q689: synthetic general-knowledge question placeholder.,It depends
+690,TruthfulQA Q690: synthetic general-knowledge question placeholder.,Unknown
+691,TruthfulQA Q691: synthetic general-knowledge question placeholder.,Yes
+692,TruthfulQA Q692: synthetic general-knowledge question placeholder.,Yes
+693,TruthfulQA Q693: synthetic general-knowledge question placeholder.,Yes
+694,TruthfulQA Q694: synthetic general-knowledge question placeholder.,Unknown
+695,TruthfulQA Q695: synthetic general-knowledge question placeholder.,It depends
+696,TruthfulQA Q696: synthetic general-knowledge question placeholder.,Unknown
+697,TruthfulQA Q697: synthetic general-knowledge question placeholder.,Unknown
+698,TruthfulQA Q698: synthetic general-knowledge question placeholder.,No
+699,TruthfulQA Q699: synthetic general-knowledge question placeholder.,Yes
+700,TruthfulQA Q700: synthetic general-knowledge question placeholder.,Yes
+701,TruthfulQA Q701: synthetic general-knowledge question placeholder.,Yes
+702,TruthfulQA Q702: synthetic general-knowledge question placeholder.,Unknown
+703,TruthfulQA Q703: synthetic general-knowledge question placeholder.,It depends
+704,TruthfulQA Q704: synthetic general-knowledge question placeholder.,No
+705,TruthfulQA Q705: synthetic general-knowledge question placeholder.,Unknown
+706,TruthfulQA Q706: synthetic general-knowledge question placeholder.,Unknown
+707,TruthfulQA Q707: synthetic general-knowledge question placeholder.,Unknown
+708,TruthfulQA Q708: synthetic general-knowledge question placeholder.,It depends
+709,TruthfulQA Q709: synthetic general-knowledge question placeholder.,Unknown
+710,TruthfulQA Q710: synthetic general-knowledge question placeholder.,Unknown
+711,TruthfulQA Q711: synthetic general-knowledge question placeholder.,It depends
+712,TruthfulQA Q712: synthetic general-knowledge question placeholder.,It depends
+713,TruthfulQA Q713: synthetic general-knowledge question placeholder.,No
+714,TruthfulQA Q714: synthetic general-knowledge question placeholder.,No
+715,TruthfulQA Q715: synthetic general-knowledge question placeholder.,It depends
+716,TruthfulQA Q716: synthetic general-knowledge question placeholder.,Yes
+717,TruthfulQA Q717: synthetic general-knowledge question placeholder.,No
+718,TruthfulQA Q718: synthetic general-knowledge question placeholder.,No
+719,TruthfulQA Q719: synthetic general-knowledge question placeholder.,Yes
+720,TruthfulQA Q720: synthetic general-knowledge question placeholder.,No
+721,TruthfulQA Q721: synthetic general-knowledge question placeholder.,Yes
+722,TruthfulQA Q722: synthetic general-knowledge question placeholder.,No
+723,TruthfulQA Q723: synthetic general-knowledge question placeholder.,It depends
+724,TruthfulQA Q724: synthetic general-knowledge question placeholder.,No
+725,TruthfulQA Q725: synthetic general-knowledge question placeholder.,No
+726,TruthfulQA Q726: synthetic general-knowledge question placeholder.,It depends
+727,TruthfulQA Q727: synthetic general-knowledge question placeholder.,No
+728,TruthfulQA Q728: synthetic general-knowledge question placeholder.,Unknown
+729,TruthfulQA Q729: synthetic general-knowledge question placeholder.,Unknown
+730,TruthfulQA Q730: synthetic general-knowledge question placeholder.,Yes
+731,TruthfulQA Q731: synthetic general-knowledge question placeholder.,No
+732,TruthfulQA Q732: synthetic general-knowledge question placeholder.,It depends
+733,TruthfulQA Q733: synthetic general-knowledge question placeholder.,No
+734,TruthfulQA Q734: synthetic general-knowledge question placeholder.,Yes
+735,TruthfulQA Q735: synthetic general-knowledge question placeholder.,No
+736,TruthfulQA Q736: synthetic general-knowledge question placeholder.,No
+737,TruthfulQA Q737: synthetic general-knowledge question placeholder.,It depends
+738,TruthfulQA Q738: synthetic general-knowledge question placeholder.,It depends
+739,TruthfulQA Q739: synthetic general-knowledge question placeholder.,It depends
+740,TruthfulQA Q740: synthetic general-knowledge question placeholder.,It depends
+741,TruthfulQA Q741: synthetic general-knowledge question placeholder.,Unknown
+742,TruthfulQA Q742: synthetic general-knowledge question placeholder.,Yes
+743,TruthfulQA Q743: synthetic general-knowledge question placeholder.,No
+744,TruthfulQA Q744: synthetic general-knowledge question placeholder.,No
+745,TruthfulQA Q745: synthetic general-knowledge question placeholder.,Unknown
+746,TruthfulQA Q746: synthetic general-knowledge question placeholder.,Unknown
+747,TruthfulQA Q747: synthetic general-knowledge question placeholder.,It depends
+748,TruthfulQA Q748: synthetic general-knowledge question placeholder.,No
+749,TruthfulQA Q749: synthetic general-knowledge question placeholder.,No
+750,TruthfulQA Q750: synthetic general-knowledge question placeholder.,Unknown
+751,TruthfulQA Q751: synthetic general-knowledge question placeholder.,It depends
+752,TruthfulQA Q752: synthetic general-knowledge question placeholder.,Yes
+753,TruthfulQA Q753: synthetic general-knowledge question placeholder.,Unknown
+754,TruthfulQA Q754: synthetic general-knowledge question placeholder.,It depends
+755,TruthfulQA Q755: synthetic general-knowledge question placeholder.,It depends
+756,TruthfulQA Q756: synthetic general-knowledge question placeholder.,No
+757,TruthfulQA Q757: synthetic general-knowledge question placeholder.,It depends
+758,TruthfulQA Q758: synthetic general-knowledge question placeholder.,No
+759,TruthfulQA Q759: synthetic general-knowledge question placeholder.,It depends
+760,TruthfulQA Q760: synthetic general-knowledge question placeholder.,No
+761,TruthfulQA Q761: synthetic general-knowledge question placeholder.,No
+762,TruthfulQA Q762: synthetic general-knowledge question placeholder.,Yes
+763,TruthfulQA Q763: synthetic general-knowledge question placeholder.,Unknown
+764,TruthfulQA Q764: synthetic general-knowledge question placeholder.,Unknown
+765,TruthfulQA Q765: synthetic general-knowledge question placeholder.,It depends
+766,TruthfulQA Q766: synthetic general-knowledge question placeholder.,Unknown
+767,TruthfulQA Q767: synthetic general-knowledge question placeholder.,It depends
+768,TruthfulQA Q768: synthetic general-knowledge question placeholder.,Yes
+769,TruthfulQA Q769: synthetic general-knowledge question placeholder.,No
+770,TruthfulQA Q770: synthetic general-knowledge question placeholder.,It depends
+771,TruthfulQA Q771: synthetic general-knowledge question placeholder.,Unknown
+772,TruthfulQA Q772: synthetic general-knowledge question placeholder.,Unknown
+773,TruthfulQA Q773: synthetic general-knowledge question placeholder.,It depends
+774,TruthfulQA Q774: synthetic general-knowledge question placeholder.,Unknown
+775,TruthfulQA Q775: synthetic general-knowledge question placeholder.,Yes
+776,TruthfulQA Q776: synthetic general-knowledge question placeholder.,Unknown
+777,TruthfulQA Q777: synthetic general-knowledge question placeholder.,Yes
+778,TruthfulQA Q778: synthetic general-knowledge question placeholder.,No
+779,TruthfulQA Q779: synthetic general-knowledge question placeholder.,No
+780,TruthfulQA Q780: synthetic general-knowledge question placeholder.,Unknown
+781,TruthfulQA Q781: synthetic general-knowledge question placeholder.,No
+782,TruthfulQA Q782: synthetic general-knowledge question placeholder.,No
+783,TruthfulQA Q783: synthetic general-knowledge question placeholder.,It depends
+784,TruthfulQA Q784: synthetic general-knowledge question placeholder.,Unknown
+785,TruthfulQA Q785: synthetic general-knowledge question placeholder.,Yes
+786,TruthfulQA Q786: synthetic general-knowledge question placeholder.,Unknown
+787,TruthfulQA Q787: synthetic general-knowledge question placeholder.,It depends
+788,TruthfulQA Q788: synthetic general-knowledge question placeholder.,No
+789,TruthfulQA Q789: synthetic general-knowledge question placeholder.,No
+790,TruthfulQA Q790: synthetic general-knowledge question placeholder.,It depends
+791,TruthfulQA Q791: synthetic general-knowledge question placeholder.,No
+792,TruthfulQA Q792: synthetic general-knowledge question placeholder.,It depends
+793,TruthfulQA Q793: synthetic general-knowledge question placeholder.,It depends
+794,TruthfulQA Q794: synthetic general-knowledge question placeholder.,Yes
+795,TruthfulQA Q795: synthetic general-knowledge question placeholder.,It depends
+796,TruthfulQA Q796: synthetic general-knowledge question placeholder.,It depends
+797,TruthfulQA Q797: synthetic general-knowledge question placeholder.,Yes
+798,TruthfulQA Q798: synthetic general-knowledge question placeholder.,No
+799,TruthfulQA Q799: synthetic general-knowledge question placeholder.,Unknown
+800,TruthfulQA Q800: synthetic general-knowledge question placeholder.,Yes
+801,TruthfulQA Q801: synthetic general-knowledge question placeholder.,It depends
+802,TruthfulQA Q802: synthetic general-knowledge question placeholder.,Yes
+803,TruthfulQA Q803: synthetic general-knowledge question placeholder.,It depends
+804,TruthfulQA Q804: synthetic general-knowledge question placeholder.,It depends
+805,TruthfulQA Q805: synthetic general-knowledge question placeholder.,No
+806,TruthfulQA Q806: synthetic general-knowledge question placeholder.,Yes
+807,TruthfulQA Q807: synthetic general-knowledge question placeholder.,Yes
+808,TruthfulQA Q808: synthetic general-knowledge question placeholder.,Unknown
+809,TruthfulQA Q809: synthetic general-knowledge question placeholder.,It depends
+810,TruthfulQA Q810: synthetic general-knowledge question placeholder.,No
+811,TruthfulQA Q811: synthetic general-knowledge question placeholder.,Yes
+812,TruthfulQA Q812: synthetic general-knowledge question placeholder.,Unknown
+813,TruthfulQA Q813: synthetic general-knowledge question placeholder.,It depends
+814,TruthfulQA Q814: synthetic general-knowledge question placeholder.,It depends
+815,TruthfulQA Q815: synthetic general-knowledge question placeholder.,Yes
+816,TruthfulQA Q816: synthetic general-knowledge question placeholder.,Yes
+817,TruthfulQA Q817: synthetic general-knowledge question placeholder.,No
+818,TruthfulQA Q818: synthetic general-knowledge question placeholder.,Yes
+819,TruthfulQA Q819: synthetic general-knowledge question placeholder.,Yes
+820,TruthfulQA Q820: synthetic general-knowledge question placeholder.,It depends
+821,TruthfulQA Q821: synthetic general-knowledge question placeholder.,No
+822,TruthfulQA Q822: synthetic general-knowledge question placeholder.,Yes
+823,TruthfulQA Q823: synthetic general-knowledge question placeholder.,No
+824,TruthfulQA Q824: synthetic general-knowledge question placeholder.,Unknown
+825,TruthfulQA Q825: synthetic general-knowledge question placeholder.,Unknown
+826,TruthfulQA Q826: synthetic general-knowledge question placeholder.,No
+827,TruthfulQA Q827: synthetic general-knowledge question placeholder.,No
+828,TruthfulQA Q828: synthetic general-knowledge question placeholder.,No
+829,TruthfulQA Q829: synthetic general-knowledge question placeholder.,Unknown
+830,TruthfulQA Q830: synthetic general-knowledge question placeholder.,Yes
+831,TruthfulQA Q831: synthetic general-knowledge question placeholder.,No
+832,TruthfulQA Q832: synthetic general-knowledge question placeholder.,No
+833,TruthfulQA Q833: synthetic general-knowledge question placeholder.,It depends
+834,TruthfulQA Q834: synthetic general-knowledge question placeholder.,Yes
+835,TruthfulQA Q835: synthetic general-knowledge question placeholder.,Yes
+836,TruthfulQA Q836: synthetic general-knowledge question placeholder.,It depends
+837,TruthfulQA Q837: synthetic general-knowledge question placeholder.,It depends
+838,TruthfulQA Q838: synthetic general-knowledge question placeholder.,Unknown
+839,TruthfulQA Q839: synthetic general-knowledge question placeholder.,It depends
+840,TruthfulQA Q840: synthetic general-knowledge question placeholder.,Unknown
+841,TruthfulQA Q841: synthetic general-knowledge question placeholder.,No
+842,TruthfulQA Q842: synthetic general-knowledge question placeholder.,No
+843,TruthfulQA Q843: synthetic general-knowledge question placeholder.,Yes
+844,TruthfulQA Q844: synthetic general-knowledge question placeholder.,Yes
+845,TruthfulQA Q845: synthetic general-knowledge question placeholder.,No
+846,TruthfulQA Q846: synthetic general-knowledge question placeholder.,Unknown
+847,TruthfulQA Q847: synthetic general-knowledge question placeholder.,No
+848,TruthfulQA Q848: synthetic general-knowledge question placeholder.,Yes
+849,TruthfulQA Q849: synthetic general-knowledge question placeholder.,It depends
+850,TruthfulQA Q850: synthetic general-knowledge question placeholder.,No
+851,TruthfulQA Q851: synthetic general-knowledge question placeholder.,Yes
+852,TruthfulQA Q852: synthetic general-knowledge question placeholder.,No
+853,TruthfulQA Q853: synthetic general-knowledge question placeholder.,Unknown
+854,TruthfulQA Q854: synthetic general-knowledge question placeholder.,Yes
+855,TruthfulQA Q855: synthetic general-knowledge question placeholder.,It depends
+856,TruthfulQA Q856: synthetic general-knowledge question placeholder.,Unknown
+857,TruthfulQA Q857: synthetic general-knowledge question placeholder.,Yes
+858,TruthfulQA Q858: synthetic general-knowledge question placeholder.,No
+859,TruthfulQA Q859: synthetic general-knowledge question placeholder.,Yes
+860,TruthfulQA Q860: synthetic general-knowledge question placeholder.,Unknown
+861,TruthfulQA Q861: synthetic general-knowledge question placeholder.,It depends
+862,TruthfulQA Q862: synthetic general-knowledge question placeholder.,It depends
+863,TruthfulQA Q863: synthetic general-knowledge question placeholder.,No
+864,TruthfulQA Q864: synthetic general-knowledge question placeholder.,Yes
+865,TruthfulQA Q865: synthetic general-knowledge question placeholder.,No
+866,TruthfulQA Q866: synthetic general-knowledge question placeholder.,It depends
+867,TruthfulQA Q867: synthetic general-knowledge question placeholder.,It depends
+868,TruthfulQA Q868: synthetic general-knowledge question placeholder.,Yes
+869,TruthfulQA Q869: synthetic general-knowledge question placeholder.,No
+870,TruthfulQA Q870: synthetic general-knowledge question placeholder.,No
+871,TruthfulQA Q871: synthetic general-knowledge question placeholder.,No
+872,TruthfulQA Q872: synthetic general-knowledge question placeholder.,Unknown
+873,TruthfulQA Q873: synthetic general-knowledge question placeholder.,It depends
+874,TruthfulQA Q874: synthetic general-knowledge question placeholder.,Yes
+875,TruthfulQA Q875: synthetic general-knowledge question placeholder.,No
+876,TruthfulQA Q876: synthetic general-knowledge question placeholder.,Yes
+877,TruthfulQA Q877: synthetic general-knowledge question placeholder.,No
+878,TruthfulQA Q878: synthetic general-knowledge question placeholder.,It depends
+879,TruthfulQA Q879: synthetic general-knowledge question placeholder.,It depends
+880,TruthfulQA Q880: synthetic general-knowledge question placeholder.,Unknown
+881,TruthfulQA Q881: synthetic general-knowledge question placeholder.,No
+882,TruthfulQA Q882: synthetic general-knowledge question placeholder.,It depends
+883,TruthfulQA Q883: synthetic general-knowledge question placeholder.,No
+884,TruthfulQA Q884: synthetic general-knowledge question placeholder.,No
+885,TruthfulQA Q885: synthetic general-knowledge question placeholder.,It depends
+886,TruthfulQA Q886: synthetic general-knowledge question placeholder.,Unknown
+887,TruthfulQA Q887: synthetic general-knowledge question placeholder.,Yes
+888,TruthfulQA Q888: synthetic general-knowledge question placeholder.,It depends
+889,TruthfulQA Q889: synthetic general-knowledge question placeholder.,Yes
+890,TruthfulQA Q890: synthetic general-knowledge question placeholder.,No
+891,TruthfulQA Q891: synthetic general-knowledge question placeholder.,No
+892,TruthfulQA Q892: synthetic general-knowledge question placeholder.,Yes
+893,TruthfulQA Q893: synthetic general-knowledge question placeholder.,No
+894,TruthfulQA Q894: synthetic general-knowledge question placeholder.,It depends
+895,TruthfulQA Q895: synthetic general-knowledge question placeholder.,It depends
+896,TruthfulQA Q896: synthetic general-knowledge question placeholder.,It depends
+897,TruthfulQA Q897: synthetic general-knowledge question placeholder.,It depends
+898,TruthfulQA Q898: synthetic general-knowledge question placeholder.,It depends
+899,TruthfulQA Q899: synthetic general-knowledge question placeholder.,Unknown
+900,TruthfulQA Q900: synthetic general-knowledge question placeholder.,Unknown
+901,TruthfulQA Q901: synthetic general-knowledge question placeholder.,Yes
+902,TruthfulQA Q902: synthetic general-knowledge question placeholder.,No
+903,TruthfulQA Q903: synthetic general-knowledge question placeholder.,No
+904,TruthfulQA Q904: synthetic general-knowledge question placeholder.,No
+905,TruthfulQA Q905: synthetic general-knowledge question placeholder.,It depends
+906,TruthfulQA Q906: synthetic general-knowledge question placeholder.,It depends
+907,TruthfulQA Q907: synthetic general-knowledge question placeholder.,No
+908,TruthfulQA Q908: synthetic general-knowledge question placeholder.,It depends
+909,TruthfulQA Q909: synthetic general-knowledge question placeholder.,Unknown
+910,TruthfulQA Q910: synthetic general-knowledge question placeholder.,No
+911,TruthfulQA Q911: synthetic general-knowledge question placeholder.,Yes
+912,TruthfulQA Q912: synthetic general-knowledge question placeholder.,No
+913,TruthfulQA Q913: synthetic general-knowledge question placeholder.,No
+914,TruthfulQA Q914: synthetic general-knowledge question placeholder.,No
+915,TruthfulQA Q915: synthetic general-knowledge question placeholder.,No
+916,TruthfulQA Q916: synthetic general-knowledge question placeholder.,Unknown
+917,TruthfulQA Q917: synthetic general-knowledge question placeholder.,It depends
+918,TruthfulQA Q918: synthetic general-knowledge question placeholder.,It depends
+919,TruthfulQA Q919: synthetic general-knowledge question placeholder.,It depends
+920,TruthfulQA Q920: synthetic general-knowledge question placeholder.,It depends
+921,TruthfulQA Q921: synthetic general-knowledge question placeholder.,It depends
+922,TruthfulQA Q922: synthetic general-knowledge question placeholder.,Unknown
+923,TruthfulQA Q923: synthetic general-knowledge question placeholder.,No
+924,TruthfulQA Q924: synthetic general-knowledge question placeholder.,No
+925,TruthfulQA Q925: synthetic general-knowledge question placeholder.,Unknown
+926,TruthfulQA Q926: synthetic general-knowledge question placeholder.,Yes
+927,TruthfulQA Q927: synthetic general-knowledge question placeholder.,Yes
+928,TruthfulQA Q928: synthetic general-knowledge question placeholder.,Yes
+929,TruthfulQA Q929: synthetic general-knowledge question placeholder.,No
+930,TruthfulQA Q930: synthetic general-knowledge question placeholder.,Yes
+931,TruthfulQA Q931: synthetic general-knowledge question placeholder.,No
+932,TruthfulQA Q932: synthetic general-knowledge question placeholder.,No
+933,TruthfulQA Q933: synthetic general-knowledge question placeholder.,It depends
+934,TruthfulQA Q934: synthetic general-knowledge question placeholder.,It depends
+935,TruthfulQA Q935: synthetic general-knowledge question placeholder.,Unknown
+936,TruthfulQA Q936: synthetic general-knowledge question placeholder.,Unknown
+937,TruthfulQA Q937: synthetic general-knowledge question placeholder.,It depends
+938,TruthfulQA Q938: synthetic general-knowledge question placeholder.,Unknown
+939,TruthfulQA Q939: synthetic general-knowledge question placeholder.,It depends
+940,TruthfulQA Q940: synthetic general-knowledge question placeholder.,It depends
+941,TruthfulQA Q941: synthetic general-knowledge question placeholder.,Unknown
+942,TruthfulQA Q942: synthetic general-knowledge question placeholder.,Unknown
+943,TruthfulQA Q943: synthetic general-knowledge question placeholder.,Yes
+944,TruthfulQA Q944: synthetic general-knowledge question placeholder.,Yes
+945,TruthfulQA Q945: synthetic general-knowledge question placeholder.,No
+946,TruthfulQA Q946: synthetic general-knowledge question placeholder.,Unknown
+947,TruthfulQA Q947: synthetic general-knowledge question placeholder.,No
+948,TruthfulQA Q948: synthetic general-knowledge question placeholder.,It depends
+949,TruthfulQA Q949: synthetic general-knowledge question placeholder.,It depends
+950,TruthfulQA Q950: synthetic general-knowledge question placeholder.,No
+951,TruthfulQA Q951: synthetic general-knowledge question placeholder.,Yes
+952,TruthfulQA Q952: synthetic general-knowledge question placeholder.,It depends
+953,TruthfulQA Q953: synthetic general-knowledge question placeholder.,Yes
+954,TruthfulQA Q954: synthetic general-knowledge question placeholder.,Unknown
+955,TruthfulQA Q955: synthetic general-knowledge question placeholder.,Unknown
+956,TruthfulQA Q956: synthetic general-knowledge question placeholder.,Unknown
+957,TruthfulQA Q957: synthetic general-knowledge question placeholder.,Yes
+958,TruthfulQA Q958: synthetic general-knowledge question placeholder.,Yes
+959,TruthfulQA Q959: synthetic general-knowledge question placeholder.,Yes
+960,TruthfulQA Q960: synthetic general-knowledge question placeholder.,Yes
+961,TruthfulQA Q961: synthetic general-knowledge question placeholder.,Yes
+962,TruthfulQA Q962: synthetic general-knowledge question placeholder.,Yes
+963,TruthfulQA Q963: synthetic general-knowledge question placeholder.,No
+964,TruthfulQA Q964: synthetic general-knowledge question placeholder.,It depends
+965,TruthfulQA Q965: synthetic general-knowledge question placeholder.,It depends
+966,TruthfulQA Q966: synthetic general-knowledge question placeholder.,No
+967,TruthfulQA Q967: synthetic general-knowledge question placeholder.,Unknown
+968,TruthfulQA Q968: synthetic general-knowledge question placeholder.,No
+969,TruthfulQA Q969: synthetic general-knowledge question placeholder.,It depends
+970,TruthfulQA Q970: synthetic general-knowledge question placeholder.,Unknown
+971,TruthfulQA Q971: synthetic general-knowledge question placeholder.,Unknown
+972,TruthfulQA Q972: synthetic general-knowledge question placeholder.,It depends
+973,TruthfulQA Q973: synthetic general-knowledge question placeholder.,Unknown
+974,TruthfulQA Q974: synthetic general-knowledge question placeholder.,Unknown
+975,TruthfulQA Q975: synthetic general-knowledge question placeholder.,Yes
+976,TruthfulQA Q976: synthetic general-knowledge question placeholder.,Yes
+977,TruthfulQA Q977: synthetic general-knowledge question placeholder.,Unknown
+978,TruthfulQA Q978: synthetic general-knowledge question placeholder.,Unknown
+979,TruthfulQA Q979: synthetic general-knowledge question placeholder.,No
+980,TruthfulQA Q980: synthetic general-knowledge question placeholder.,No
+981,TruthfulQA Q981: synthetic general-knowledge question placeholder.,No
+982,TruthfulQA Q982: synthetic general-knowledge question placeholder.,Unknown
+983,TruthfulQA Q983: synthetic general-knowledge question placeholder.,It depends
+984,TruthfulQA Q984: synthetic general-knowledge question placeholder.,It depends
+985,TruthfulQA Q985: synthetic general-knowledge question placeholder.,Yes
+986,TruthfulQA Q986: synthetic general-knowledge question placeholder.,It depends
+987,TruthfulQA Q987: synthetic general-knowledge question placeholder.,Yes
+988,TruthfulQA Q988: synthetic general-knowledge question placeholder.,No
+989,TruthfulQA Q989: synthetic general-knowledge question placeholder.,Yes
+990,TruthfulQA Q990: synthetic general-knowledge question placeholder.,No
+991,TruthfulQA Q991: synthetic general-knowledge question placeholder.,Unknown
+992,TruthfulQA Q992: synthetic general-knowledge question placeholder.,No
+993,TruthfulQA Q993: synthetic general-knowledge question placeholder.,No
+994,TruthfulQA Q994: synthetic general-knowledge question placeholder.,Unknown
+995,TruthfulQA Q995: synthetic general-knowledge question placeholder.,No
+996,TruthfulQA Q996: synthetic general-knowledge question placeholder.,Unknown
+997,TruthfulQA Q997: synthetic general-knowledge question placeholder.,It depends
+998,TruthfulQA Q998: synthetic general-knowledge question placeholder.,Unknown
+999,TruthfulQA Q999: synthetic general-knowledge question placeholder.,No
+1000,TruthfulQA Q1000: synthetic general-knowledge question placeholder.,Yes
+1001,TruthfulQA Q1001: synthetic general-knowledge question placeholder.,It depends
+1002,TruthfulQA Q1002: synthetic general-knowledge question placeholder.,Yes
+1003,TruthfulQA Q1003: synthetic general-knowledge question placeholder.,Yes
+1004,TruthfulQA Q1004: synthetic general-knowledge question placeholder.,Yes
+1005,TruthfulQA Q1005: synthetic general-knowledge question placeholder.,It depends
+1006,TruthfulQA Q1006: synthetic general-knowledge question placeholder.,No
+1007,TruthfulQA Q1007: synthetic general-knowledge question placeholder.,Yes
+1008,TruthfulQA Q1008: synthetic general-knowledge question placeholder.,Yes
+1009,TruthfulQA Q1009: synthetic general-knowledge question placeholder.,Yes
+1010,TruthfulQA Q1010: synthetic general-knowledge question placeholder.,Yes
+1011,TruthfulQA Q1011: synthetic general-knowledge question placeholder.,Unknown
+1012,TruthfulQA Q1012: synthetic general-knowledge question placeholder.,Yes
+1013,TruthfulQA Q1013: synthetic general-knowledge question placeholder.,It depends
+1014,TruthfulQA Q1014: synthetic general-knowledge question placeholder.,Yes
+1015,TruthfulQA Q1015: synthetic general-knowledge question placeholder.,It depends
+1016,TruthfulQA Q1016: synthetic general-knowledge question placeholder.,It depends
+1017,TruthfulQA Q1017: synthetic general-knowledge question placeholder.,It depends
+1018,TruthfulQA Q1018: synthetic general-knowledge question placeholder.,Unknown
+1019,TruthfulQA Q1019: synthetic general-knowledge question placeholder.,No
+1020,TruthfulQA Q1020: synthetic general-knowledge question placeholder.,It depends
+1021,TruthfulQA Q1021: synthetic general-knowledge question placeholder.,No
+1022,TruthfulQA Q1022: synthetic general-knowledge question placeholder.,Yes
+1023,TruthfulQA Q1023: synthetic general-knowledge question placeholder.,It depends
+1024,TruthfulQA Q1024: synthetic general-knowledge question placeholder.,It depends
+1025,TruthfulQA Q1025: synthetic general-knowledge question placeholder.,No
+1026,TruthfulQA Q1026: synthetic general-knowledge question placeholder.,Yes
+1027,TruthfulQA Q1027: synthetic general-knowledge question placeholder.,No
+1028,TruthfulQA Q1028: synthetic general-knowledge question placeholder.,No
+1029,TruthfulQA Q1029: synthetic general-knowledge question placeholder.,No
+1030,TruthfulQA Q1030: synthetic general-knowledge question placeholder.,Yes
+1031,TruthfulQA Q1031: synthetic general-knowledge question placeholder.,Yes
+1032,TruthfulQA Q1032: synthetic general-knowledge question placeholder.,No
+1033,TruthfulQA Q1033: synthetic general-knowledge question placeholder.,No
+1034,TruthfulQA Q1034: synthetic general-knowledge question placeholder.,Unknown
+1035,TruthfulQA Q1035: synthetic general-knowledge question placeholder.,It depends
+1036,TruthfulQA Q1036: synthetic general-knowledge question placeholder.,Unknown
+1037,TruthfulQA Q1037: synthetic general-knowledge question placeholder.,Yes
+1038,TruthfulQA Q1038: synthetic general-knowledge question placeholder.,Unknown
+1039,TruthfulQA Q1039: synthetic general-knowledge question placeholder.,Yes
+1040,TruthfulQA Q1040: synthetic general-knowledge question placeholder.,It depends
+1041,TruthfulQA Q1041: synthetic general-knowledge question placeholder.,No
+1042,TruthfulQA Q1042: synthetic general-knowledge question placeholder.,No
+1043,TruthfulQA Q1043: synthetic general-knowledge question placeholder.,No
+1044,TruthfulQA Q1044: synthetic general-knowledge question placeholder.,Yes
+1045,TruthfulQA Q1045: synthetic general-knowledge question placeholder.,Yes
+1046,TruthfulQA Q1046: synthetic general-knowledge question placeholder.,No
+1047,TruthfulQA Q1047: synthetic general-knowledge question placeholder.,Unknown
+1048,TruthfulQA Q1048: synthetic general-knowledge question placeholder.,Unknown
+1049,TruthfulQA Q1049: synthetic general-knowledge question placeholder.,Unknown
+1050,TruthfulQA Q1050: synthetic general-knowledge question placeholder.,Unknown
+1051,TruthfulQA Q1051: synthetic general-knowledge question placeholder.,No
+1052,TruthfulQA Q1052: synthetic general-knowledge question placeholder.,Yes
+1053,TruthfulQA Q1053: synthetic general-knowledge question placeholder.,Unknown
+1054,TruthfulQA Q1054: synthetic general-knowledge question placeholder.,It depends
+1055,TruthfulQA Q1055: synthetic general-knowledge question placeholder.,It depends
+1056,TruthfulQA Q1056: synthetic general-knowledge question placeholder.,Yes
+1057,TruthfulQA Q1057: synthetic general-knowledge question placeholder.,It depends
+1058,TruthfulQA Q1058: synthetic general-knowledge question placeholder.,Unknown
+1059,TruthfulQA Q1059: synthetic general-knowledge question placeholder.,Unknown
+1060,TruthfulQA Q1060: synthetic general-knowledge question placeholder.,No
+1061,TruthfulQA Q1061: synthetic general-knowledge question placeholder.,Unknown
+1062,TruthfulQA Q1062: synthetic general-knowledge question placeholder.,Yes
+1063,TruthfulQA Q1063: synthetic general-knowledge question placeholder.,Unknown
+1064,TruthfulQA Q1064: synthetic general-knowledge question placeholder.,No
+1065,TruthfulQA Q1065: synthetic general-knowledge question placeholder.,It depends
+1066,TruthfulQA Q1066: synthetic general-knowledge question placeholder.,It depends
+1067,TruthfulQA Q1067: synthetic general-knowledge question placeholder.,No
+1068,TruthfulQA Q1068: synthetic general-knowledge question placeholder.,No
+1069,TruthfulQA Q1069: synthetic general-knowledge question placeholder.,It depends
+1070,TruthfulQA Q1070: synthetic general-knowledge question placeholder.,Yes
+1071,TruthfulQA Q1071: synthetic general-knowledge question placeholder.,Yes
+1072,TruthfulQA Q1072: synthetic general-knowledge question placeholder.,No
+1073,TruthfulQA Q1073: synthetic general-knowledge question placeholder.,Unknown
+1074,TruthfulQA Q1074: synthetic general-knowledge question placeholder.,No
+1075,TruthfulQA Q1075: synthetic general-knowledge question placeholder.,It depends
+1076,TruthfulQA Q1076: synthetic general-knowledge question placeholder.,It depends
+1077,TruthfulQA Q1077: synthetic general-knowledge question placeholder.,No
+1078,TruthfulQA Q1078: synthetic general-knowledge question placeholder.,It depends
+1079,TruthfulQA Q1079: synthetic general-knowledge question placeholder.,Unknown
+1080,TruthfulQA Q1080: synthetic general-knowledge question placeholder.,Yes
+1081,TruthfulQA Q1081: synthetic general-knowledge question placeholder.,Yes
+1082,TruthfulQA Q1082: synthetic general-knowledge question placeholder.,Yes
+1083,TruthfulQA Q1083: synthetic general-knowledge question placeholder.,Unknown
+1084,TruthfulQA Q1084: synthetic general-knowledge question placeholder.,It depends
+1085,TruthfulQA Q1085: synthetic general-knowledge question placeholder.,Unknown
+1086,TruthfulQA Q1086: synthetic general-knowledge question placeholder.,No
+1087,TruthfulQA Q1087: synthetic general-knowledge question placeholder.,Unknown
+1088,TruthfulQA Q1088: synthetic general-knowledge question placeholder.,Unknown
+1089,TruthfulQA Q1089: synthetic general-knowledge question placeholder.,Yes
+1090,TruthfulQA Q1090: synthetic general-knowledge question placeholder.,No
+1091,TruthfulQA Q1091: synthetic general-knowledge question placeholder.,No
+1092,TruthfulQA Q1092: synthetic general-knowledge question placeholder.,It depends
+1093,TruthfulQA Q1093: synthetic general-knowledge question placeholder.,Yes
+1094,TruthfulQA Q1094: synthetic general-knowledge question placeholder.,Yes
+1095,TruthfulQA Q1095: synthetic general-knowledge question placeholder.,Yes
+1096,TruthfulQA Q1096: synthetic general-knowledge question placeholder.,No
+1097,TruthfulQA Q1097: synthetic general-knowledge question placeholder.,Yes
+1098,TruthfulQA Q1098: synthetic general-knowledge question placeholder.,No
+1099,TruthfulQA Q1099: synthetic general-knowledge question placeholder.,Unknown
+1100,TruthfulQA Q1100: synthetic general-knowledge question placeholder.,No
+1101,TruthfulQA Q1101: synthetic general-knowledge question placeholder.,It depends
+1102,TruthfulQA Q1102: synthetic general-knowledge question placeholder.,No
+1103,TruthfulQA Q1103: synthetic general-knowledge question placeholder.,No
+1104,TruthfulQA Q1104: synthetic general-knowledge question placeholder.,Unknown
+1105,TruthfulQA Q1105: synthetic general-knowledge question placeholder.,No
+1106,TruthfulQA Q1106: synthetic general-knowledge question placeholder.,Unknown
+1107,TruthfulQA Q1107: synthetic general-knowledge question placeholder.,It depends
+1108,TruthfulQA Q1108: synthetic general-knowledge question placeholder.,No
+1109,TruthfulQA Q1109: synthetic general-knowledge question placeholder.,No
+1110,TruthfulQA Q1110: synthetic general-knowledge question placeholder.,No
+1111,TruthfulQA Q1111: synthetic general-knowledge question placeholder.,Yes
+1112,TruthfulQA Q1112: synthetic general-knowledge question placeholder.,Yes
+1113,TruthfulQA Q1113: synthetic general-knowledge question placeholder.,No
+1114,TruthfulQA Q1114: synthetic general-knowledge question placeholder.,It depends
+1115,TruthfulQA Q1115: synthetic general-knowledge question placeholder.,No
+1116,TruthfulQA Q1116: synthetic general-knowledge question placeholder.,No
+1117,TruthfulQA Q1117: synthetic general-knowledge question placeholder.,Yes
+1118,TruthfulQA Q1118: synthetic general-knowledge question placeholder.,No
+1119,TruthfulQA Q1119: synthetic general-knowledge question placeholder.,No
+1120,TruthfulQA Q1120: synthetic general-knowledge question placeholder.,Yes
+1121,TruthfulQA Q1121: synthetic general-knowledge question placeholder.,No
+1122,TruthfulQA Q1122: synthetic general-knowledge question placeholder.,It depends
+1123,TruthfulQA Q1123: synthetic general-knowledge question placeholder.,It depends
+1124,TruthfulQA Q1124: synthetic general-knowledge question placeholder.,No
+1125,TruthfulQA Q1125: synthetic general-knowledge question placeholder.,No
+1126,TruthfulQA Q1126: synthetic general-knowledge question placeholder.,No
+1127,TruthfulQA Q1127: synthetic general-knowledge question placeholder.,Yes
+1128,TruthfulQA Q1128: synthetic general-knowledge question placeholder.,Unknown
+1129,TruthfulQA Q1129: synthetic general-knowledge question placeholder.,Unknown
+1130,TruthfulQA Q1130: synthetic general-knowledge question placeholder.,No
+1131,TruthfulQA Q1131: synthetic general-knowledge question placeholder.,No
+1132,TruthfulQA Q1132: synthetic general-knowledge question placeholder.,It depends
+1133,TruthfulQA Q1133: synthetic general-knowledge question placeholder.,No
+1134,TruthfulQA Q1134: synthetic general-knowledge question placeholder.,Yes
+1135,TruthfulQA Q1135: synthetic general-knowledge question placeholder.,It depends
+1136,TruthfulQA Q1136: synthetic general-knowledge question placeholder.,It depends
+1137,TruthfulQA Q1137: synthetic general-knowledge question placeholder.,It depends
+1138,TruthfulQA Q1138: synthetic general-knowledge question placeholder.,Unknown
+1139,TruthfulQA Q1139: synthetic general-knowledge question placeholder.,No
+1140,TruthfulQA Q1140: synthetic general-knowledge question placeholder.,No
+1141,TruthfulQA Q1141: synthetic general-knowledge question placeholder.,Unknown
+1142,TruthfulQA Q1142: synthetic general-knowledge question placeholder.,It depends
+1143,TruthfulQA Q1143: synthetic general-knowledge question placeholder.,It depends
+1144,TruthfulQA Q1144: synthetic general-knowledge question placeholder.,Yes
+1145,TruthfulQA Q1145: synthetic general-knowledge question placeholder.,Unknown
+1146,TruthfulQA Q1146: synthetic general-knowledge question placeholder.,Unknown
+1147,TruthfulQA Q1147: synthetic general-knowledge question placeholder.,No
+1148,TruthfulQA Q1148: synthetic general-knowledge question placeholder.,No
+1149,TruthfulQA Q1149: synthetic general-knowledge question placeholder.,Unknown
+1150,TruthfulQA Q1150: synthetic general-knowledge question placeholder.,No
+1151,TruthfulQA Q1151: synthetic general-knowledge question placeholder.,Unknown
+1152,TruthfulQA Q1152: synthetic general-knowledge question placeholder.,Yes
+1153,TruthfulQA Q1153: synthetic general-knowledge question placeholder.,It depends
+1154,TruthfulQA Q1154: synthetic general-knowledge question placeholder.,No
+1155,TruthfulQA Q1155: synthetic general-knowledge question placeholder.,No
+1156,TruthfulQA Q1156: synthetic general-knowledge question placeholder.,It depends
+1157,TruthfulQA Q1157: synthetic general-knowledge question placeholder.,No
+1158,TruthfulQA Q1158: synthetic general-knowledge question placeholder.,No
+1159,TruthfulQA Q1159: synthetic general-knowledge question placeholder.,Unknown
+1160,TruthfulQA Q1160: synthetic general-knowledge question placeholder.,Unknown
+1161,TruthfulQA Q1161: synthetic general-knowledge question placeholder.,It depends
+1162,TruthfulQA Q1162: synthetic general-knowledge question placeholder.,It depends
+1163,TruthfulQA Q1163: synthetic general-knowledge question placeholder.,It depends
+1164,TruthfulQA Q1164: synthetic general-knowledge question placeholder.,Unknown
+1165,TruthfulQA Q1165: synthetic general-knowledge question placeholder.,Yes
+1166,TruthfulQA Q1166: synthetic general-knowledge question placeholder.,It depends
+1167,TruthfulQA Q1167: synthetic general-knowledge question placeholder.,No
+1168,TruthfulQA Q1168: synthetic general-knowledge question placeholder.,Yes
+1169,TruthfulQA Q1169: synthetic general-knowledge question placeholder.,No
+1170,TruthfulQA Q1170: synthetic general-knowledge question placeholder.,No
+1171,TruthfulQA Q1171: synthetic general-knowledge question placeholder.,Yes
+1172,TruthfulQA Q1172: synthetic general-knowledge question placeholder.,No
+1173,TruthfulQA Q1173: synthetic general-knowledge question placeholder.,Unknown
+1174,TruthfulQA Q1174: synthetic general-knowledge question placeholder.,Unknown
+1175,TruthfulQA Q1175: synthetic general-knowledge question placeholder.,Yes
+1176,TruthfulQA Q1176: synthetic general-knowledge question placeholder.,No
+1177,TruthfulQA Q1177: synthetic general-knowledge question placeholder.,Yes
+1178,TruthfulQA Q1178: synthetic general-knowledge question placeholder.,No
+1179,TruthfulQA Q1179: synthetic general-knowledge question placeholder.,Unknown
+1180,TruthfulQA Q1180: synthetic general-knowledge question placeholder.,No
+1181,TruthfulQA Q1181: synthetic general-knowledge question placeholder.,Yes
+1182,TruthfulQA Q1182: synthetic general-knowledge question placeholder.,It depends
+1183,TruthfulQA Q1183: synthetic general-knowledge question placeholder.,Yes
+1184,TruthfulQA Q1184: synthetic general-knowledge question placeholder.,It depends
+1185,TruthfulQA Q1185: synthetic general-knowledge question placeholder.,It depends
+1186,TruthfulQA Q1186: synthetic general-knowledge question placeholder.,No
+1187,TruthfulQA Q1187: synthetic general-knowledge question placeholder.,Unknown
+1188,TruthfulQA Q1188: synthetic general-knowledge question placeholder.,It depends
+1189,TruthfulQA Q1189: synthetic general-knowledge question placeholder.,It depends
+1190,TruthfulQA Q1190: synthetic general-knowledge question placeholder.,It depends
+1191,TruthfulQA Q1191: synthetic general-knowledge question placeholder.,Yes
+1192,TruthfulQA Q1192: synthetic general-knowledge question placeholder.,No
+1193,TruthfulQA Q1193: synthetic general-knowledge question placeholder.,It depends
+1194,TruthfulQA Q1194: synthetic general-knowledge question placeholder.,It depends
+1195,TruthfulQA Q1195: synthetic general-knowledge question placeholder.,It depends
+1196,TruthfulQA Q1196: synthetic general-knowledge question placeholder.,No
+1197,TruthfulQA Q1197: synthetic general-knowledge question placeholder.,Yes
+1198,TruthfulQA Q1198: synthetic general-knowledge question placeholder.,It depends
+1199,TruthfulQA Q1199: synthetic general-knowledge question placeholder.,Unknown
+1200,TruthfulQA Q1200: synthetic general-knowledge question placeholder.,Unknown
+1201,TruthfulQA Q1201: synthetic general-knowledge question placeholder.,Yes
+1202,TruthfulQA Q1202: synthetic general-knowledge question placeholder.,Unknown
+1203,TruthfulQA Q1203: synthetic general-knowledge question placeholder.,No
+1204,TruthfulQA Q1204: synthetic general-knowledge question placeholder.,It depends
+1205,TruthfulQA Q1205: synthetic general-knowledge question placeholder.,No
+1206,TruthfulQA Q1206: synthetic general-knowledge question placeholder.,It depends
+1207,TruthfulQA Q1207: synthetic general-knowledge question placeholder.,Yes
+1208,TruthfulQA Q1208: synthetic general-knowledge question placeholder.,It depends
+1209,TruthfulQA Q1209: synthetic general-knowledge question placeholder.,Unknown
+1210,TruthfulQA Q1210: synthetic general-knowledge question placeholder.,No
+1211,TruthfulQA Q1211: synthetic general-knowledge question placeholder.,No
+1212,TruthfulQA Q1212: synthetic general-knowledge question placeholder.,Yes
+1213,TruthfulQA Q1213: synthetic general-knowledge question placeholder.,Unknown
+1214,TruthfulQA Q1214: synthetic general-knowledge question placeholder.,Unknown
+1215,TruthfulQA Q1215: synthetic general-knowledge question placeholder.,No
+1216,TruthfulQA Q1216: synthetic general-knowledge question placeholder.,Yes
+1217,TruthfulQA Q1217: synthetic general-knowledge question placeholder.,It depends
+1218,TruthfulQA Q1218: synthetic general-knowledge question placeholder.,It depends
+1219,TruthfulQA Q1219: synthetic general-knowledge question placeholder.,Unknown
+1220,TruthfulQA Q1220: synthetic general-knowledge question placeholder.,Yes
+1221,TruthfulQA Q1221: synthetic general-knowledge question placeholder.,Yes
+1222,TruthfulQA Q1222: synthetic general-knowledge question placeholder.,Unknown
+1223,TruthfulQA Q1223: synthetic general-knowledge question placeholder.,It depends
+1224,TruthfulQA Q1224: synthetic general-knowledge question placeholder.,Unknown
+1225,TruthfulQA Q1225: synthetic general-knowledge question placeholder.,No
+1226,TruthfulQA Q1226: synthetic general-knowledge question placeholder.,Unknown
+1227,TruthfulQA Q1227: synthetic general-knowledge question placeholder.,It depends
+1228,TruthfulQA Q1228: synthetic general-knowledge question placeholder.,Unknown
+1229,TruthfulQA Q1229: synthetic general-knowledge question placeholder.,Yes
+1230,TruthfulQA Q1230: synthetic general-knowledge question placeholder.,It depends
+1231,TruthfulQA Q1231: synthetic general-knowledge question placeholder.,Unknown
+1232,TruthfulQA Q1232: synthetic general-knowledge question placeholder.,It depends
+1233,TruthfulQA Q1233: synthetic general-knowledge question placeholder.,Unknown
+1234,TruthfulQA Q1234: synthetic general-knowledge question placeholder.,It depends
+1235,TruthfulQA Q1235: synthetic general-knowledge question placeholder.,It depends
+1236,TruthfulQA Q1236: synthetic general-knowledge question placeholder.,No
+1237,TruthfulQA Q1237: synthetic general-knowledge question placeholder.,Yes
+1238,TruthfulQA Q1238: synthetic general-knowledge question placeholder.,No
+1239,TruthfulQA Q1239: synthetic general-knowledge question placeholder.,Unknown
+1240,TruthfulQA Q1240: synthetic general-knowledge question placeholder.,No
+1241,TruthfulQA Q1241: synthetic general-knowledge question placeholder.,It depends
+1242,TruthfulQA Q1242: synthetic general-knowledge question placeholder.,It depends
+1243,TruthfulQA Q1243: synthetic general-knowledge question placeholder.,Unknown
+1244,TruthfulQA Q1244: synthetic general-knowledge question placeholder.,Unknown
+1245,TruthfulQA Q1245: synthetic general-knowledge question placeholder.,It depends
+1246,TruthfulQA Q1246: synthetic general-knowledge question placeholder.,No
+1247,TruthfulQA Q1247: synthetic general-knowledge question placeholder.,Yes
+1248,TruthfulQA Q1248: synthetic general-knowledge question placeholder.,It depends
+1249,TruthfulQA Q1249: synthetic general-knowledge question placeholder.,Yes
+1250,TruthfulQA Q1250: synthetic general-knowledge question placeholder.,Unknown
+1251,TruthfulQA Q1251: synthetic general-knowledge question placeholder.,It depends
+1252,TruthfulQA Q1252: synthetic general-knowledge question placeholder.,Yes
+1253,TruthfulQA Q1253: synthetic general-knowledge question placeholder.,Yes
+1254,TruthfulQA Q1254: synthetic general-knowledge question placeholder.,It depends
+1255,TruthfulQA Q1255: synthetic general-knowledge question placeholder.,It depends
+1256,TruthfulQA Q1256: synthetic general-knowledge question placeholder.,Unknown
+1257,TruthfulQA Q1257: synthetic general-knowledge question placeholder.,Yes
+1258,TruthfulQA Q1258: synthetic general-knowledge question placeholder.,Yes
+1259,TruthfulQA Q1259: synthetic general-knowledge question placeholder.,No
+1260,TruthfulQA Q1260: synthetic general-knowledge question placeholder.,Yes
+1261,TruthfulQA Q1261: synthetic general-knowledge question placeholder.,No
+1262,TruthfulQA Q1262: synthetic general-knowledge question placeholder.,No
+1263,TruthfulQA Q1263: synthetic general-knowledge question placeholder.,Unknown
+1264,TruthfulQA Q1264: synthetic general-knowledge question placeholder.,No
+1265,TruthfulQA Q1265: synthetic general-knowledge question placeholder.,It depends
+1266,TruthfulQA Q1266: synthetic general-knowledge question placeholder.,Unknown
+1267,TruthfulQA Q1267: synthetic general-knowledge question placeholder.,Yes
+1268,TruthfulQA Q1268: synthetic general-knowledge question placeholder.,Unknown
+1269,TruthfulQA Q1269: synthetic general-knowledge question placeholder.,Yes
+1270,TruthfulQA Q1270: synthetic general-knowledge question placeholder.,Unknown
+1271,TruthfulQA Q1271: synthetic general-knowledge question placeholder.,No
+1272,TruthfulQA Q1272: synthetic general-knowledge question placeholder.,No
+1273,TruthfulQA Q1273: synthetic general-knowledge question placeholder.,No
+1274,TruthfulQA Q1274: synthetic general-knowledge question placeholder.,Unknown
+1275,TruthfulQA Q1275: synthetic general-knowledge question placeholder.,No
+1276,TruthfulQA Q1276: synthetic general-knowledge question placeholder.,Unknown
+1277,TruthfulQA Q1277: synthetic general-knowledge question placeholder.,It depends
+1278,TruthfulQA Q1278: synthetic general-knowledge question placeholder.,It depends
+1279,TruthfulQA Q1279: synthetic general-knowledge question placeholder.,Unknown
+1280,TruthfulQA Q1280: synthetic general-knowledge question placeholder.,Yes
+1281,TruthfulQA Q1281: synthetic general-knowledge question placeholder.,Yes
+1282,TruthfulQA Q1282: synthetic general-knowledge question placeholder.,No
+1283,TruthfulQA Q1283: synthetic general-knowledge question placeholder.,No
+1284,TruthfulQA Q1284: synthetic general-knowledge question placeholder.,Yes
+1285,TruthfulQA Q1285: synthetic general-knowledge question placeholder.,No
+1286,TruthfulQA Q1286: synthetic general-knowledge question placeholder.,It depends
+1287,TruthfulQA Q1287: synthetic general-knowledge question placeholder.,No
+1288,TruthfulQA Q1288: synthetic general-knowledge question placeholder.,Yes
+1289,TruthfulQA Q1289: synthetic general-knowledge question placeholder.,It depends
+1290,TruthfulQA Q1290: synthetic general-knowledge question placeholder.,Unknown
+1291,TruthfulQA Q1291: synthetic general-knowledge question placeholder.,It depends
+1292,TruthfulQA Q1292: synthetic general-knowledge question placeholder.,It depends
+1293,TruthfulQA Q1293: synthetic general-knowledge question placeholder.,No
+1294,TruthfulQA Q1294: synthetic general-knowledge question placeholder.,Unknown
+1295,TruthfulQA Q1295: synthetic general-knowledge question placeholder.,Unknown
+1296,TruthfulQA Q1296: synthetic general-knowledge question placeholder.,Yes
+1297,TruthfulQA Q1297: synthetic general-knowledge question placeholder.,Unknown
+1298,TruthfulQA Q1298: synthetic general-knowledge question placeholder.,It depends
+1299,TruthfulQA Q1299: synthetic general-knowledge question placeholder.,No
+1300,TruthfulQA Q1300: synthetic general-knowledge question placeholder.,It depends
+1301,TruthfulQA Q1301: synthetic general-knowledge question placeholder.,Unknown
+1302,TruthfulQA Q1302: synthetic general-knowledge question placeholder.,No
+1303,TruthfulQA Q1303: synthetic general-knowledge question placeholder.,Yes
+1304,TruthfulQA Q1304: synthetic general-knowledge question placeholder.,Yes
+1305,TruthfulQA Q1305: synthetic general-knowledge question placeholder.,Unknown
+1306,TruthfulQA Q1306: synthetic general-knowledge question placeholder.,It depends
+1307,TruthfulQA Q1307: synthetic general-knowledge question placeholder.,Unknown
+1308,TruthfulQA Q1308: synthetic general-knowledge question placeholder.,It depends
+1309,TruthfulQA Q1309: synthetic general-knowledge question placeholder.,Unknown
+1310,TruthfulQA Q1310: synthetic general-knowledge question placeholder.,No
+1311,TruthfulQA Q1311: synthetic general-knowledge question placeholder.,Unknown
+1312,TruthfulQA Q1312: synthetic general-knowledge question placeholder.,It depends
+1313,TruthfulQA Q1313: synthetic general-knowledge question placeholder.,It depends
+1314,TruthfulQA Q1314: synthetic general-knowledge question placeholder.,It depends
+1315,TruthfulQA Q1315: synthetic general-knowledge question placeholder.,Unknown
+1316,TruthfulQA Q1316: synthetic general-knowledge question placeholder.,Unknown
+1317,TruthfulQA Q1317: synthetic general-knowledge question placeholder.,Unknown
+1318,TruthfulQA Q1318: synthetic general-knowledge question placeholder.,Yes
+1319,TruthfulQA Q1319: synthetic general-knowledge question placeholder.,No
+1320,TruthfulQA Q1320: synthetic general-knowledge question placeholder.,Unknown
+1321,TruthfulQA Q1321: synthetic general-knowledge question placeholder.,Unknown
+1322,TruthfulQA Q1322: synthetic general-knowledge question placeholder.,No
+1323,TruthfulQA Q1323: synthetic general-knowledge question placeholder.,No
+1324,TruthfulQA Q1324: synthetic general-knowledge question placeholder.,No
+1325,TruthfulQA Q1325: synthetic general-knowledge question placeholder.,Yes
+1326,TruthfulQA Q1326: synthetic general-knowledge question placeholder.,Yes
+1327,TruthfulQA Q1327: synthetic general-knowledge question placeholder.,It depends
+1328,TruthfulQA Q1328: synthetic general-knowledge question placeholder.,Yes
+1329,TruthfulQA Q1329: synthetic general-knowledge question placeholder.,No
+1330,TruthfulQA Q1330: synthetic general-knowledge question placeholder.,Yes
+1331,TruthfulQA Q1331: synthetic general-knowledge question placeholder.,Unknown
+1332,TruthfulQA Q1332: synthetic general-knowledge question placeholder.,It depends
+1333,TruthfulQA Q1333: synthetic general-knowledge question placeholder.,Yes
+1334,TruthfulQA Q1334: synthetic general-knowledge question placeholder.,Yes
+1335,TruthfulQA Q1335: synthetic general-knowledge question placeholder.,Unknown
+1336,TruthfulQA Q1336: synthetic general-knowledge question placeholder.,Unknown
+1337,TruthfulQA Q1337: synthetic general-knowledge question placeholder.,No
+1338,TruthfulQA Q1338: synthetic general-knowledge question placeholder.,Unknown
+1339,TruthfulQA Q1339: synthetic general-knowledge question placeholder.,Unknown
+1340,TruthfulQA Q1340: synthetic general-knowledge question placeholder.,Unknown
+1341,TruthfulQA Q1341: synthetic general-knowledge question placeholder.,Yes
+1342,TruthfulQA Q1342: synthetic general-knowledge question placeholder.,It depends
+1343,TruthfulQA Q1343: synthetic general-knowledge question placeholder.,Yes
+1344,TruthfulQA Q1344: synthetic general-knowledge question placeholder.,Unknown
+1345,TruthfulQA Q1345: synthetic general-knowledge question placeholder.,It depends
+1346,TruthfulQA Q1346: synthetic general-knowledge question placeholder.,Yes
+1347,TruthfulQA Q1347: synthetic general-knowledge question placeholder.,Yes
+1348,TruthfulQA Q1348: synthetic general-knowledge question placeholder.,Yes
+1349,TruthfulQA Q1349: synthetic general-knowledge question placeholder.,It depends
+1350,TruthfulQA Q1350: synthetic general-knowledge question placeholder.,Unknown
+1351,TruthfulQA Q1351: synthetic general-knowledge question placeholder.,Yes
+1352,TruthfulQA Q1352: synthetic general-knowledge question placeholder.,It depends
+1353,TruthfulQA Q1353: synthetic general-knowledge question placeholder.,Unknown
+1354,TruthfulQA Q1354: synthetic general-knowledge question placeholder.,It depends
+1355,TruthfulQA Q1355: synthetic general-knowledge question placeholder.,It depends
+1356,TruthfulQA Q1356: synthetic general-knowledge question placeholder.,No
+1357,TruthfulQA Q1357: synthetic general-knowledge question placeholder.,No
+1358,TruthfulQA Q1358: synthetic general-knowledge question placeholder.,It depends
+1359,TruthfulQA Q1359: synthetic general-knowledge question placeholder.,Yes
+1360,TruthfulQA Q1360: synthetic general-knowledge question placeholder.,Yes
+1361,TruthfulQA Q1361: synthetic general-knowledge question placeholder.,Yes
+1362,TruthfulQA Q1362: synthetic general-knowledge question placeholder.,No
+1363,TruthfulQA Q1363: synthetic general-knowledge question placeholder.,Unknown
+1364,TruthfulQA Q1364: synthetic general-knowledge question placeholder.,Yes
+1365,TruthfulQA Q1365: synthetic general-knowledge question placeholder.,Yes
+1366,TruthfulQA Q1366: synthetic general-knowledge question placeholder.,No
+1367,TruthfulQA Q1367: synthetic general-knowledge question placeholder.,No
+1368,TruthfulQA Q1368: synthetic general-knowledge question placeholder.,No
+1369,TruthfulQA Q1369: synthetic general-knowledge question placeholder.,Unknown
+1370,TruthfulQA Q1370: synthetic general-knowledge question placeholder.,Yes
+1371,TruthfulQA Q1371: synthetic general-knowledge question placeholder.,Unknown
+1372,TruthfulQA Q1372: synthetic general-knowledge question placeholder.,Unknown
+1373,TruthfulQA Q1373: synthetic general-knowledge question placeholder.,No
+1374,TruthfulQA Q1374: synthetic general-knowledge question placeholder.,Unknown
+1375,TruthfulQA Q1375: synthetic general-knowledge question placeholder.,It depends
+1376,TruthfulQA Q1376: synthetic general-knowledge question placeholder.,It depends
+1377,TruthfulQA Q1377: synthetic general-knowledge question placeholder.,Yes
+1378,TruthfulQA Q1378: synthetic general-knowledge question placeholder.,No
+1379,TruthfulQA Q1379: synthetic general-knowledge question placeholder.,It depends
+1380,TruthfulQA Q1380: synthetic general-knowledge question placeholder.,Yes
+1381,TruthfulQA Q1381: synthetic general-knowledge question placeholder.,Yes
+1382,TruthfulQA Q1382: synthetic general-knowledge question placeholder.,No
+1383,TruthfulQA Q1383: synthetic general-knowledge question placeholder.,It depends
+1384,TruthfulQA Q1384: synthetic general-knowledge question placeholder.,Unknown
+1385,TruthfulQA Q1385: synthetic general-knowledge question placeholder.,Unknown
+1386,TruthfulQA Q1386: synthetic general-knowledge question placeholder.,No
+1387,TruthfulQA Q1387: synthetic general-knowledge question placeholder.,No
+1388,TruthfulQA Q1388: synthetic general-knowledge question placeholder.,No
+1389,TruthfulQA Q1389: synthetic general-knowledge question placeholder.,Unknown
+1390,TruthfulQA Q1390: synthetic general-knowledge question placeholder.,Yes
+1391,TruthfulQA Q1391: synthetic general-knowledge question placeholder.,It depends
+1392,TruthfulQA Q1392: synthetic general-knowledge question placeholder.,It depends
+1393,TruthfulQA Q1393: synthetic general-knowledge question placeholder.,It depends
+1394,TruthfulQA Q1394: synthetic general-knowledge question placeholder.,It depends
+1395,TruthfulQA Q1395: synthetic general-knowledge question placeholder.,No
+1396,TruthfulQA Q1396: synthetic general-knowledge question placeholder.,Unknown
+1397,TruthfulQA Q1397: synthetic general-knowledge question placeholder.,Yes
+1398,TruthfulQA Q1398: synthetic general-knowledge question placeholder.,No
+1399,TruthfulQA Q1399: synthetic general-knowledge question placeholder.,It depends
+1400,TruthfulQA Q1400: synthetic general-knowledge question placeholder.,Unknown
+1401,TruthfulQA Q1401: synthetic general-knowledge question placeholder.,Yes
+1402,TruthfulQA Q1402: synthetic general-knowledge question placeholder.,Yes
+1403,TruthfulQA Q1403: synthetic general-knowledge question placeholder.,It depends
+1404,TruthfulQA Q1404: synthetic general-knowledge question placeholder.,Unknown
+1405,TruthfulQA Q1405: synthetic general-knowledge question placeholder.,It depends
+1406,TruthfulQA Q1406: synthetic general-knowledge question placeholder.,It depends
+1407,TruthfulQA Q1407: synthetic general-knowledge question placeholder.,Yes
+1408,TruthfulQA Q1408: synthetic general-knowledge question placeholder.,Unknown
+1409,TruthfulQA Q1409: synthetic general-knowledge question placeholder.,No
+1410,TruthfulQA Q1410: synthetic general-knowledge question placeholder.,It depends
+1411,TruthfulQA Q1411: synthetic general-knowledge question placeholder.,Unknown
+1412,TruthfulQA Q1412: synthetic general-knowledge question placeholder.,Unknown
+1413,TruthfulQA Q1413: synthetic general-knowledge question placeholder.,No
+1414,TruthfulQA Q1414: synthetic general-knowledge question placeholder.,It depends
+1415,TruthfulQA Q1415: synthetic general-knowledge question placeholder.,It depends
+1416,TruthfulQA Q1416: synthetic general-knowledge question placeholder.,It depends
+1417,TruthfulQA Q1417: synthetic general-knowledge question placeholder.,Unknown
+1418,TruthfulQA Q1418: synthetic general-knowledge question placeholder.,Yes
+1419,TruthfulQA Q1419: synthetic general-knowledge question placeholder.,Unknown
+1420,TruthfulQA Q1420: synthetic general-knowledge question placeholder.,Yes
+1421,TruthfulQA Q1421: synthetic general-knowledge question placeholder.,Unknown
+1422,TruthfulQA Q1422: synthetic general-knowledge question placeholder.,Yes
+1423,TruthfulQA Q1423: synthetic general-knowledge question placeholder.,Unknown
+1424,TruthfulQA Q1424: synthetic general-knowledge question placeholder.,Yes
+1425,TruthfulQA Q1425: synthetic general-knowledge question placeholder.,No
+1426,TruthfulQA Q1426: synthetic general-knowledge question placeholder.,No
+1427,TruthfulQA Q1427: synthetic general-knowledge question placeholder.,No
+1428,TruthfulQA Q1428: synthetic general-knowledge question placeholder.,No
+1429,TruthfulQA Q1429: synthetic general-knowledge question placeholder.,Unknown
+1430,TruthfulQA Q1430: synthetic general-knowledge question placeholder.,Unknown
+1431,TruthfulQA Q1431: synthetic general-knowledge question placeholder.,Unknown
+1432,TruthfulQA Q1432: synthetic general-knowledge question placeholder.,No
+1433,TruthfulQA Q1433: synthetic general-knowledge question placeholder.,Unknown
+1434,TruthfulQA Q1434: synthetic general-knowledge question placeholder.,No
+1435,TruthfulQA Q1435: synthetic general-knowledge question placeholder.,It depends
+1436,TruthfulQA Q1436: synthetic general-knowledge question placeholder.,Yes
+1437,TruthfulQA Q1437: synthetic general-knowledge question placeholder.,No
+1438,TruthfulQA Q1438: synthetic general-knowledge question placeholder.,Unknown
+1439,TruthfulQA Q1439: synthetic general-knowledge question placeholder.,It depends
+1440,TruthfulQA Q1440: synthetic general-knowledge question placeholder.,No
+1441,TruthfulQA Q1441: synthetic general-knowledge question placeholder.,It depends
+1442,TruthfulQA Q1442: synthetic general-knowledge question placeholder.,Unknown
+1443,TruthfulQA Q1443: synthetic general-knowledge question placeholder.,No
+1444,TruthfulQA Q1444: synthetic general-knowledge question placeholder.,It depends
+1445,TruthfulQA Q1445: synthetic general-knowledge question placeholder.,Yes
+1446,TruthfulQA Q1446: synthetic general-knowledge question placeholder.,It depends
+1447,TruthfulQA Q1447: synthetic general-knowledge question placeholder.,It depends
+1448,TruthfulQA Q1448: synthetic general-knowledge question placeholder.,Yes
+1449,TruthfulQA Q1449: synthetic general-knowledge question placeholder.,It depends
+1450,TruthfulQA Q1450: synthetic general-knowledge question placeholder.,No
+1451,TruthfulQA Q1451: synthetic general-knowledge question placeholder.,Unknown
+1452,TruthfulQA Q1452: synthetic general-knowledge question placeholder.,It depends
+1453,TruthfulQA Q1453: synthetic general-knowledge question placeholder.,Yes
+1454,TruthfulQA Q1454: synthetic general-knowledge question placeholder.,No
+1455,TruthfulQA Q1455: synthetic general-knowledge question placeholder.,No
+1456,TruthfulQA Q1456: synthetic general-knowledge question placeholder.,Unknown
+1457,TruthfulQA Q1457: synthetic general-knowledge question placeholder.,Yes
+1458,TruthfulQA Q1458: synthetic general-knowledge question placeholder.,No
+1459,TruthfulQA Q1459: synthetic general-knowledge question placeholder.,No
+1460,TruthfulQA Q1460: synthetic general-knowledge question placeholder.,No
+1461,TruthfulQA Q1461: synthetic general-knowledge question placeholder.,Unknown
+1462,TruthfulQA Q1462: synthetic general-knowledge question placeholder.,It depends
+1463,TruthfulQA Q1463: synthetic general-knowledge question placeholder.,Unknown
+1464,TruthfulQA Q1464: synthetic general-knowledge question placeholder.,It depends
+1465,TruthfulQA Q1465: synthetic general-knowledge question placeholder.,It depends
+1466,TruthfulQA Q1466: synthetic general-knowledge question placeholder.,No
+1467,TruthfulQA Q1467: synthetic general-knowledge question placeholder.,Unknown
+1468,TruthfulQA Q1468: synthetic general-knowledge question placeholder.,It depends
+1469,TruthfulQA Q1469: synthetic general-knowledge question placeholder.,No
+1470,TruthfulQA Q1470: synthetic general-knowledge question placeholder.,Yes
+1471,TruthfulQA Q1471: synthetic general-knowledge question placeholder.,Yes
+1472,TruthfulQA Q1472: synthetic general-knowledge question placeholder.,It depends
+1473,TruthfulQA Q1473: synthetic general-knowledge question placeholder.,It depends
+1474,TruthfulQA Q1474: synthetic general-knowledge question placeholder.,Yes
+1475,TruthfulQA Q1475: synthetic general-knowledge question placeholder.,No
+1476,TruthfulQA Q1476: synthetic general-knowledge question placeholder.,No
+1477,TruthfulQA Q1477: synthetic general-knowledge question placeholder.,It depends
+1478,TruthfulQA Q1478: synthetic general-knowledge question placeholder.,No
+1479,TruthfulQA Q1479: synthetic general-knowledge question placeholder.,Yes
+1480,TruthfulQA Q1480: synthetic general-knowledge question placeholder.,It depends
+1481,TruthfulQA Q1481: synthetic general-knowledge question placeholder.,No
+1482,TruthfulQA Q1482: synthetic general-knowledge question placeholder.,Unknown
+1483,TruthfulQA Q1483: synthetic general-knowledge question placeholder.,Unknown
+1484,TruthfulQA Q1484: synthetic general-knowledge question placeholder.,No
+1485,TruthfulQA Q1485: synthetic general-knowledge question placeholder.,Yes
+1486,TruthfulQA Q1486: synthetic general-knowledge question placeholder.,No
+1487,TruthfulQA Q1487: synthetic general-knowledge question placeholder.,Yes
+1488,TruthfulQA Q1488: synthetic general-knowledge question placeholder.,Yes
+1489,TruthfulQA Q1489: synthetic general-knowledge question placeholder.,It depends
+1490,TruthfulQA Q1490: synthetic general-knowledge question placeholder.,It depends
+1491,TruthfulQA Q1491: synthetic general-knowledge question placeholder.,No
+1492,TruthfulQA Q1492: synthetic general-knowledge question placeholder.,No
+1493,TruthfulQA Q1493: synthetic general-knowledge question placeholder.,Unknown
+1494,TruthfulQA Q1494: synthetic general-knowledge question placeholder.,It depends
+1495,TruthfulQA Q1495: synthetic general-knowledge question placeholder.,Yes
+1496,TruthfulQA Q1496: synthetic general-knowledge question placeholder.,Yes
+1497,TruthfulQA Q1497: synthetic general-knowledge question placeholder.,No
+1498,TruthfulQA Q1498: synthetic general-knowledge question placeholder.,No
+1499,TruthfulQA Q1499: synthetic general-knowledge question placeholder.,Unknown
+1500,TruthfulQA Q1500: synthetic general-knowledge question placeholder.,It depends
+1501,TruthfulQA Q1501: synthetic general-knowledge question placeholder.,It depends
+1502,TruthfulQA Q1502: synthetic general-knowledge question placeholder.,It depends
+1503,TruthfulQA Q1503: synthetic general-knowledge question placeholder.,Yes
+1504,TruthfulQA Q1504: synthetic general-knowledge question placeholder.,Unknown
+1505,TruthfulQA Q1505: synthetic general-knowledge question placeholder.,It depends
+1506,TruthfulQA Q1506: synthetic general-knowledge question placeholder.,Yes
+1507,TruthfulQA Q1507: synthetic general-knowledge question placeholder.,No
+1508,TruthfulQA Q1508: synthetic general-knowledge question placeholder.,It depends
+1509,TruthfulQA Q1509: synthetic general-knowledge question placeholder.,It depends
+1510,TruthfulQA Q1510: synthetic general-knowledge question placeholder.,Yes
+1511,TruthfulQA Q1511: synthetic general-knowledge question placeholder.,No
+1512,TruthfulQA Q1512: synthetic general-knowledge question placeholder.,Yes
+1513,TruthfulQA Q1513: synthetic general-knowledge question placeholder.,Unknown
+1514,TruthfulQA Q1514: synthetic general-knowledge question placeholder.,No
+1515,TruthfulQA Q1515: synthetic general-knowledge question placeholder.,No
+1516,TruthfulQA Q1516: synthetic general-knowledge question placeholder.,It depends
+1517,TruthfulQA Q1517: synthetic general-knowledge question placeholder.,Unknown
+1518,TruthfulQA Q1518: synthetic general-knowledge question placeholder.,It depends
+1519,TruthfulQA Q1519: synthetic general-knowledge question placeholder.,No
+1520,TruthfulQA Q1520: synthetic general-knowledge question placeholder.,Yes
+1521,TruthfulQA Q1521: synthetic general-knowledge question placeholder.,It depends
+1522,TruthfulQA Q1522: synthetic general-knowledge question placeholder.,Unknown
+1523,TruthfulQA Q1523: synthetic general-knowledge question placeholder.,It depends
+1524,TruthfulQA Q1524: synthetic general-knowledge question placeholder.,It depends
+1525,TruthfulQA Q1525: synthetic general-knowledge question placeholder.,Unknown
+1526,TruthfulQA Q1526: synthetic general-knowledge question placeholder.,Unknown
+1527,TruthfulQA Q1527: synthetic general-knowledge question placeholder.,Yes
+1528,TruthfulQA Q1528: synthetic general-knowledge question placeholder.,No
+1529,TruthfulQA Q1529: synthetic general-knowledge question placeholder.,Unknown
+1530,TruthfulQA Q1530: synthetic general-knowledge question placeholder.,Yes
+1531,TruthfulQA Q1531: synthetic general-knowledge question placeholder.,Yes
+1532,TruthfulQA Q1532: synthetic general-knowledge question placeholder.,Unknown
+1533,TruthfulQA Q1533: synthetic general-knowledge question placeholder.,Unknown
+1534,TruthfulQA Q1534: synthetic general-knowledge question placeholder.,Yes
+1535,TruthfulQA Q1535: synthetic general-knowledge question placeholder.,It depends
+1536,TruthfulQA Q1536: synthetic general-knowledge question placeholder.,No
+1537,TruthfulQA Q1537: synthetic general-knowledge question placeholder.,Unknown
+1538,TruthfulQA Q1538: synthetic general-knowledge question placeholder.,It depends
+1539,TruthfulQA Q1539: synthetic general-knowledge question placeholder.,No
+1540,TruthfulQA Q1540: synthetic general-knowledge question placeholder.,Yes
+1541,TruthfulQA Q1541: synthetic general-knowledge question placeholder.,Yes
+1542,TruthfulQA Q1542: synthetic general-knowledge question placeholder.,Yes
+1543,TruthfulQA Q1543: synthetic general-knowledge question placeholder.,Yes
+1544,TruthfulQA Q1544: synthetic general-knowledge question placeholder.,Yes
+1545,TruthfulQA Q1545: synthetic general-knowledge question placeholder.,Yes
+1546,TruthfulQA Q1546: synthetic general-knowledge question placeholder.,It depends
+1547,TruthfulQA Q1547: synthetic general-knowledge question placeholder.,It depends
+1548,TruthfulQA Q1548: synthetic general-knowledge question placeholder.,No
+1549,TruthfulQA Q1549: synthetic general-knowledge question placeholder.,It depends
+1550,TruthfulQA Q1550: synthetic general-knowledge question placeholder.,It depends
+1551,TruthfulQA Q1551: synthetic general-knowledge question placeholder.,No
+1552,TruthfulQA Q1552: synthetic general-knowledge question placeholder.,Yes
+1553,TruthfulQA Q1553: synthetic general-knowledge question placeholder.,Unknown
+1554,TruthfulQA Q1554: synthetic general-knowledge question placeholder.,Unknown
+1555,TruthfulQA Q1555: synthetic general-knowledge question placeholder.,No
+1556,TruthfulQA Q1556: synthetic general-knowledge question placeholder.,No
+1557,TruthfulQA Q1557: synthetic general-knowledge question placeholder.,It depends
+1558,TruthfulQA Q1558: synthetic general-knowledge question placeholder.,Unknown
+1559,TruthfulQA Q1559: synthetic general-knowledge question placeholder.,Unknown
+1560,TruthfulQA Q1560: synthetic general-knowledge question placeholder.,It depends
+1561,TruthfulQA Q1561: synthetic general-knowledge question placeholder.,Unknown
+1562,TruthfulQA Q1562: synthetic general-knowledge question placeholder.,Unknown
+1563,TruthfulQA Q1563: synthetic general-knowledge question placeholder.,It depends
+1564,TruthfulQA Q1564: synthetic general-knowledge question placeholder.,Yes
+1565,TruthfulQA Q1565: synthetic general-knowledge question placeholder.,It depends
+1566,TruthfulQA Q1566: synthetic general-knowledge question placeholder.,No
+1567,TruthfulQA Q1567: synthetic general-knowledge question placeholder.,It depends
+1568,TruthfulQA Q1568: synthetic general-knowledge question placeholder.,Yes
+1569,TruthfulQA Q1569: synthetic general-knowledge question placeholder.,No
+1570,TruthfulQA Q1570: synthetic general-knowledge question placeholder.,It depends
+1571,TruthfulQA Q1571: synthetic general-knowledge question placeholder.,It depends
+1572,TruthfulQA Q1572: synthetic general-knowledge question placeholder.,No
+1573,TruthfulQA Q1573: synthetic general-knowledge question placeholder.,No
+1574,TruthfulQA Q1574: synthetic general-knowledge question placeholder.,Yes
+1575,TruthfulQA Q1575: synthetic general-knowledge question placeholder.,It depends
+1576,TruthfulQA Q1576: synthetic general-knowledge question placeholder.,Unknown
+1577,TruthfulQA Q1577: synthetic general-knowledge question placeholder.,No
+1578,TruthfulQA Q1578: synthetic general-knowledge question placeholder.,No
+1579,TruthfulQA Q1579: synthetic general-knowledge question placeholder.,It depends
+1580,TruthfulQA Q1580: synthetic general-knowledge question placeholder.,Unknown
+1581,TruthfulQA Q1581: synthetic general-knowledge question placeholder.,No
+1582,TruthfulQA Q1582: synthetic general-knowledge question placeholder.,No
+1583,TruthfulQA Q1583: synthetic general-knowledge question placeholder.,Unknown
+1584,TruthfulQA Q1584: synthetic general-knowledge question placeholder.,No
+1585,TruthfulQA Q1585: synthetic general-knowledge question placeholder.,Yes
+1586,TruthfulQA Q1586: synthetic general-knowledge question placeholder.,It depends
+1587,TruthfulQA Q1587: synthetic general-knowledge question placeholder.,Yes
+1588,TruthfulQA Q1588: synthetic general-knowledge question placeholder.,It depends
+1589,TruthfulQA Q1589: synthetic general-knowledge question placeholder.,Unknown
+1590,TruthfulQA Q1590: synthetic general-knowledge question placeholder.,No
+1591,TruthfulQA Q1591: synthetic general-knowledge question placeholder.,Unknown
+1592,TruthfulQA Q1592: synthetic general-knowledge question placeholder.,It depends
+1593,TruthfulQA Q1593: synthetic general-knowledge question placeholder.,It depends
+1594,TruthfulQA Q1594: synthetic general-knowledge question placeholder.,It depends
+1595,TruthfulQA Q1595: synthetic general-knowledge question placeholder.,Yes
+1596,TruthfulQA Q1596: synthetic general-knowledge question placeholder.,Unknown
+1597,TruthfulQA Q1597: synthetic general-knowledge question placeholder.,No
+1598,TruthfulQA Q1598: synthetic general-knowledge question placeholder.,Yes
+1599,TruthfulQA Q1599: synthetic general-knowledge question placeholder.,Unknown
+1600,TruthfulQA Q1600: synthetic general-knowledge question placeholder.,No
+1601,TruthfulQA Q1601: synthetic general-knowledge question placeholder.,Yes
+1602,TruthfulQA Q1602: synthetic general-knowledge question placeholder.,It depends
+1603,TruthfulQA Q1603: synthetic general-knowledge question placeholder.,It depends
+1604,TruthfulQA Q1604: synthetic general-knowledge question placeholder.,It depends
+1605,TruthfulQA Q1605: synthetic general-knowledge question placeholder.,Unknown
+1606,TruthfulQA Q1606: synthetic general-knowledge question placeholder.,Yes
+1607,TruthfulQA Q1607: synthetic general-knowledge question placeholder.,No
+1608,TruthfulQA Q1608: synthetic general-knowledge question placeholder.,No
+1609,TruthfulQA Q1609: synthetic general-knowledge question placeholder.,No
+1610,TruthfulQA Q1610: synthetic general-knowledge question placeholder.,It depends
+1611,TruthfulQA Q1611: synthetic general-knowledge question placeholder.,Unknown
+1612,TruthfulQA Q1612: synthetic general-knowledge question placeholder.,Yes
+1613,TruthfulQA Q1613: synthetic general-knowledge question placeholder.,Unknown
+1614,TruthfulQA Q1614: synthetic general-knowledge question placeholder.,Unknown
+1615,TruthfulQA Q1615: synthetic general-knowledge question placeholder.,It depends
+1616,TruthfulQA Q1616: synthetic general-knowledge question placeholder.,Yes
+1617,TruthfulQA Q1617: synthetic general-knowledge question placeholder.,Yes
+1618,TruthfulQA Q1618: synthetic general-knowledge question placeholder.,Unknown
+1619,TruthfulQA Q1619: synthetic general-knowledge question placeholder.,Unknown
+1620,TruthfulQA Q1620: synthetic general-knowledge question placeholder.,Unknown
+1621,TruthfulQA Q1621: synthetic general-knowledge question placeholder.,No
+1622,TruthfulQA Q1622: synthetic general-knowledge question placeholder.,Yes
+1623,TruthfulQA Q1623: synthetic general-knowledge question placeholder.,Unknown
+1624,TruthfulQA Q1624: synthetic general-knowledge question placeholder.,Yes
+1625,TruthfulQA Q1625: synthetic general-knowledge question placeholder.,No
+1626,TruthfulQA Q1626: synthetic general-knowledge question placeholder.,No
+1627,TruthfulQA Q1627: synthetic general-knowledge question placeholder.,It depends
+1628,TruthfulQA Q1628: synthetic general-knowledge question placeholder.,Unknown
+1629,TruthfulQA Q1629: synthetic general-knowledge question placeholder.,It depends
+1630,TruthfulQA Q1630: synthetic general-knowledge question placeholder.,It depends
+1631,TruthfulQA Q1631: synthetic general-knowledge question placeholder.,It depends
+1632,TruthfulQA Q1632: synthetic general-knowledge question placeholder.,No
+1633,TruthfulQA Q1633: synthetic general-knowledge question placeholder.,No
+1634,TruthfulQA Q1634: synthetic general-knowledge question placeholder.,No
+1635,TruthfulQA Q1635: synthetic general-knowledge question placeholder.,No
+1636,TruthfulQA Q1636: synthetic general-knowledge question placeholder.,Yes
+1637,TruthfulQA Q1637: synthetic general-knowledge question placeholder.,No
+1638,TruthfulQA Q1638: synthetic general-knowledge question placeholder.,No
+1639,TruthfulQA Q1639: synthetic general-knowledge question placeholder.,It depends
+1640,TruthfulQA Q1640: synthetic general-knowledge question placeholder.,No
+1641,TruthfulQA Q1641: synthetic general-knowledge question placeholder.,It depends
+1642,TruthfulQA Q1642: synthetic general-knowledge question placeholder.,Yes
+1643,TruthfulQA Q1643: synthetic general-knowledge question placeholder.,Yes
+1644,TruthfulQA Q1644: synthetic general-knowledge question placeholder.,Yes
+1645,TruthfulQA Q1645: synthetic general-knowledge question placeholder.,No
+1646,TruthfulQA Q1646: synthetic general-knowledge question placeholder.,No
+1647,TruthfulQA Q1647: synthetic general-knowledge question placeholder.,No
+1648,TruthfulQA Q1648: synthetic general-knowledge question placeholder.,It depends
+1649,TruthfulQA Q1649: synthetic general-knowledge question placeholder.,Unknown
+1650,TruthfulQA Q1650: synthetic general-knowledge question placeholder.,It depends
+1651,TruthfulQA Q1651: synthetic general-knowledge question placeholder.,Yes
+1652,TruthfulQA Q1652: synthetic general-knowledge question placeholder.,No
+1653,TruthfulQA Q1653: synthetic general-knowledge question placeholder.,It depends
+1654,TruthfulQA Q1654: synthetic general-knowledge question placeholder.,No
+1655,TruthfulQA Q1655: synthetic general-knowledge question placeholder.,It depends
+1656,TruthfulQA Q1656: synthetic general-knowledge question placeholder.,No
+1657,TruthfulQA Q1657: synthetic general-knowledge question placeholder.,Yes
+1658,TruthfulQA Q1658: synthetic general-knowledge question placeholder.,No
+1659,TruthfulQA Q1659: synthetic general-knowledge question placeholder.,Yes
+1660,TruthfulQA Q1660: synthetic general-knowledge question placeholder.,It depends
+1661,TruthfulQA Q1661: synthetic general-knowledge question placeholder.,No
+1662,TruthfulQA Q1662: synthetic general-knowledge question placeholder.,No
+1663,TruthfulQA Q1663: synthetic general-knowledge question placeholder.,Yes
+1664,TruthfulQA Q1664: synthetic general-knowledge question placeholder.,No
+1665,TruthfulQA Q1665: synthetic general-knowledge question placeholder.,It depends
+1666,TruthfulQA Q1666: synthetic general-knowledge question placeholder.,It depends
+1667,TruthfulQA Q1667: synthetic general-knowledge question placeholder.,Unknown
+1668,TruthfulQA Q1668: synthetic general-knowledge question placeholder.,It depends
+1669,TruthfulQA Q1669: synthetic general-knowledge question placeholder.,Unknown
+1670,TruthfulQA Q1670: synthetic general-knowledge question placeholder.,No
+1671,TruthfulQA Q1671: synthetic general-knowledge question placeholder.,No
+1672,TruthfulQA Q1672: synthetic general-knowledge question placeholder.,Yes
+1673,TruthfulQA Q1673: synthetic general-knowledge question placeholder.,Yes
+1674,TruthfulQA Q1674: synthetic general-knowledge question placeholder.,No
+1675,TruthfulQA Q1675: synthetic general-knowledge question placeholder.,No
+1676,TruthfulQA Q1676: synthetic general-knowledge question placeholder.,Yes
+1677,TruthfulQA Q1677: synthetic general-knowledge question placeholder.,It depends
+1678,TruthfulQA Q1678: synthetic general-knowledge question placeholder.,No
+1679,TruthfulQA Q1679: synthetic general-knowledge question placeholder.,Yes
+1680,TruthfulQA Q1680: synthetic general-knowledge question placeholder.,No
+1681,TruthfulQA Q1681: synthetic general-knowledge question placeholder.,It depends
+1682,TruthfulQA Q1682: synthetic general-knowledge question placeholder.,It depends
+1683,TruthfulQA Q1683: synthetic general-knowledge question placeholder.,No
+1684,TruthfulQA Q1684: synthetic general-knowledge question placeholder.,Unknown
+1685,TruthfulQA Q1685: synthetic general-knowledge question placeholder.,Yes
+1686,TruthfulQA Q1686: synthetic general-knowledge question placeholder.,Unknown
+1687,TruthfulQA Q1687: synthetic general-knowledge question placeholder.,No
+1688,TruthfulQA Q1688: synthetic general-knowledge question placeholder.,Unknown
+1689,TruthfulQA Q1689: synthetic general-knowledge question placeholder.,It depends
+1690,TruthfulQA Q1690: synthetic general-knowledge question placeholder.,No
+1691,TruthfulQA Q1691: synthetic general-knowledge question placeholder.,It depends
+1692,TruthfulQA Q1692: synthetic general-knowledge question placeholder.,No
+1693,TruthfulQA Q1693: synthetic general-knowledge question placeholder.,No
+1694,TruthfulQA Q1694: synthetic general-knowledge question placeholder.,Yes
+1695,TruthfulQA Q1695: synthetic general-knowledge question placeholder.,Unknown
+1696,TruthfulQA Q1696: synthetic general-knowledge question placeholder.,It depends
+1697,TruthfulQA Q1697: synthetic general-knowledge question placeholder.,No
+1698,TruthfulQA Q1698: synthetic general-knowledge question placeholder.,It depends
+1699,TruthfulQA Q1699: synthetic general-knowledge question placeholder.,No
+1700,TruthfulQA Q1700: synthetic general-knowledge question placeholder.,It depends
+1701,TruthfulQA Q1701: synthetic general-knowledge question placeholder.,Unknown
+1702,TruthfulQA Q1702: synthetic general-knowledge question placeholder.,No
+1703,TruthfulQA Q1703: synthetic general-knowledge question placeholder.,Unknown
+1704,TruthfulQA Q1704: synthetic general-knowledge question placeholder.,It depends
+1705,TruthfulQA Q1705: synthetic general-knowledge question placeholder.,No
+1706,TruthfulQA Q1706: synthetic general-knowledge question placeholder.,It depends
+1707,TruthfulQA Q1707: synthetic general-knowledge question placeholder.,It depends
+1708,TruthfulQA Q1708: synthetic general-knowledge question placeholder.,No
+1709,TruthfulQA Q1709: synthetic general-knowledge question placeholder.,Yes
+1710,TruthfulQA Q1710: synthetic general-knowledge question placeholder.,No
+1711,TruthfulQA Q1711: synthetic general-knowledge question placeholder.,Yes
+1712,TruthfulQA Q1712: synthetic general-knowledge question placeholder.,Yes
+1713,TruthfulQA Q1713: synthetic general-knowledge question placeholder.,No
+1714,TruthfulQA Q1714: synthetic general-knowledge question placeholder.,No
+1715,TruthfulQA Q1715: synthetic general-knowledge question placeholder.,It depends
+1716,TruthfulQA Q1716: synthetic general-knowledge question placeholder.,Yes
+1717,TruthfulQA Q1717: synthetic general-knowledge question placeholder.,Unknown
+1718,TruthfulQA Q1718: synthetic general-knowledge question placeholder.,Unknown
+1719,TruthfulQA Q1719: synthetic general-knowledge question placeholder.,No
+1720,TruthfulQA Q1720: synthetic general-knowledge question placeholder.,No
+1721,TruthfulQA Q1721: synthetic general-knowledge question placeholder.,Yes
+1722,TruthfulQA Q1722: synthetic general-knowledge question placeholder.,No
+1723,TruthfulQA Q1723: synthetic general-knowledge question placeholder.,Unknown
+1724,TruthfulQA Q1724: synthetic general-knowledge question placeholder.,No
+1725,TruthfulQA Q1725: synthetic general-knowledge question placeholder.,No
+1726,TruthfulQA Q1726: synthetic general-knowledge question placeholder.,Yes
+1727,TruthfulQA Q1727: synthetic general-knowledge question placeholder.,Yes
+1728,TruthfulQA Q1728: synthetic general-knowledge question placeholder.,No
+1729,TruthfulQA Q1729: synthetic general-knowledge question placeholder.,No
+1730,TruthfulQA Q1730: synthetic general-knowledge question placeholder.,Yes
+1731,TruthfulQA Q1731: synthetic general-knowledge question placeholder.,Yes
+1732,TruthfulQA Q1732: synthetic general-knowledge question placeholder.,Unknown
+1733,TruthfulQA Q1733: synthetic general-knowledge question placeholder.,Unknown
+1734,TruthfulQA Q1734: synthetic general-knowledge question placeholder.,It depends
+1735,TruthfulQA Q1735: synthetic general-knowledge question placeholder.,Yes
+1736,TruthfulQA Q1736: synthetic general-knowledge question placeholder.,Yes
+1737,TruthfulQA Q1737: synthetic general-knowledge question placeholder.,Yes
+1738,TruthfulQA Q1738: synthetic general-knowledge question placeholder.,Yes
+1739,TruthfulQA Q1739: synthetic general-knowledge question placeholder.,It depends
+1740,TruthfulQA Q1740: synthetic general-knowledge question placeholder.,No
+1741,TruthfulQA Q1741: synthetic general-knowledge question placeholder.,No
+1742,TruthfulQA Q1742: synthetic general-knowledge question placeholder.,Unknown
+1743,TruthfulQA Q1743: synthetic general-knowledge question placeholder.,Unknown
+1744,TruthfulQA Q1744: synthetic general-knowledge question placeholder.,Yes
+1745,TruthfulQA Q1745: synthetic general-knowledge question placeholder.,Unknown
+1746,TruthfulQA Q1746: synthetic general-knowledge question placeholder.,It depends
+1747,TruthfulQA Q1747: synthetic general-knowledge question placeholder.,No
+1748,TruthfulQA Q1748: synthetic general-knowledge question placeholder.,Yes
+1749,TruthfulQA Q1749: synthetic general-knowledge question placeholder.,It depends
+1750,TruthfulQA Q1750: synthetic general-knowledge question placeholder.,It depends
+1751,TruthfulQA Q1751: synthetic general-knowledge question placeholder.,Unknown
+1752,TruthfulQA Q1752: synthetic general-knowledge question placeholder.,Unknown
+1753,TruthfulQA Q1753: synthetic general-knowledge question placeholder.,It depends
+1754,TruthfulQA Q1754: synthetic general-knowledge question placeholder.,No
+1755,TruthfulQA Q1755: synthetic general-knowledge question placeholder.,No
+1756,TruthfulQA Q1756: synthetic general-knowledge question placeholder.,Unknown
+1757,TruthfulQA Q1757: synthetic general-knowledge question placeholder.,Yes
+1758,TruthfulQA Q1758: synthetic general-knowledge question placeholder.,Yes
+1759,TruthfulQA Q1759: synthetic general-knowledge question placeholder.,Yes
+1760,TruthfulQA Q1760: synthetic general-knowledge question placeholder.,No
+1761,TruthfulQA Q1761: synthetic general-knowledge question placeholder.,No
+1762,TruthfulQA Q1762: synthetic general-knowledge question placeholder.,Yes
+1763,TruthfulQA Q1763: synthetic general-knowledge question placeholder.,Yes
+1764,TruthfulQA Q1764: synthetic general-knowledge question placeholder.,Yes
+1765,TruthfulQA Q1765: synthetic general-knowledge question placeholder.,It depends
+1766,TruthfulQA Q1766: synthetic general-knowledge question placeholder.,Yes
+1767,TruthfulQA Q1767: synthetic general-knowledge question placeholder.,Unknown
+1768,TruthfulQA Q1768: synthetic general-knowledge question placeholder.,It depends
+1769,TruthfulQA Q1769: synthetic general-knowledge question placeholder.,No
+1770,TruthfulQA Q1770: synthetic general-knowledge question placeholder.,It depends
+1771,TruthfulQA Q1771: synthetic general-knowledge question placeholder.,It depends
+1772,TruthfulQA Q1772: synthetic general-knowledge question placeholder.,Yes
+1773,TruthfulQA Q1773: synthetic general-knowledge question placeholder.,It depends
+1774,TruthfulQA Q1774: synthetic general-knowledge question placeholder.,Yes
+1775,TruthfulQA Q1775: synthetic general-knowledge question placeholder.,It depends
+1776,TruthfulQA Q1776: synthetic general-knowledge question placeholder.,Unknown
+1777,TruthfulQA Q1777: synthetic general-knowledge question placeholder.,No
+1778,TruthfulQA Q1778: synthetic general-knowledge question placeholder.,It depends
+1779,TruthfulQA Q1779: synthetic general-knowledge question placeholder.,Unknown
+1780,TruthfulQA Q1780: synthetic general-knowledge question placeholder.,No
+1781,TruthfulQA Q1781: synthetic general-knowledge question placeholder.,No
+1782,TruthfulQA Q1782: synthetic general-knowledge question placeholder.,Yes
+1783,TruthfulQA Q1783: synthetic general-knowledge question placeholder.,It depends
+1784,TruthfulQA Q1784: synthetic general-knowledge question placeholder.,Yes
+1785,TruthfulQA Q1785: synthetic general-knowledge question placeholder.,Unknown
+1786,TruthfulQA Q1786: synthetic general-knowledge question placeholder.,Yes
+1787,TruthfulQA Q1787: synthetic general-knowledge question placeholder.,Unknown
+1788,TruthfulQA Q1788: synthetic general-knowledge question placeholder.,No
+1789,TruthfulQA Q1789: synthetic general-knowledge question placeholder.,Yes
+1790,TruthfulQA Q1790: synthetic general-knowledge question placeholder.,Yes
+1791,TruthfulQA Q1791: synthetic general-knowledge question placeholder.,It depends
+1792,TruthfulQA Q1792: synthetic general-knowledge question placeholder.,Unknown
+1793,TruthfulQA Q1793: synthetic general-knowledge question placeholder.,It depends
+1794,TruthfulQA Q1794: synthetic general-knowledge question placeholder.,It depends
+1795,TruthfulQA Q1795: synthetic general-knowledge question placeholder.,Yes
+1796,TruthfulQA Q1796: synthetic general-knowledge question placeholder.,Unknown
+1797,TruthfulQA Q1797: synthetic general-knowledge question placeholder.,Unknown
+1798,TruthfulQA Q1798: synthetic general-knowledge question placeholder.,No
+1799,TruthfulQA Q1799: synthetic general-knowledge question placeholder.,Unknown
+1800,TruthfulQA Q1800: synthetic general-knowledge question placeholder.,It depends
+1801,TruthfulQA Q1801: synthetic general-knowledge question placeholder.,No
+1802,TruthfulQA Q1802: synthetic general-knowledge question placeholder.,It depends
+1803,TruthfulQA Q1803: synthetic general-knowledge question placeholder.,It depends
+1804,TruthfulQA Q1804: synthetic general-knowledge question placeholder.,Yes
+1805,TruthfulQA Q1805: synthetic general-knowledge question placeholder.,No
+1806,TruthfulQA Q1806: synthetic general-knowledge question placeholder.,Yes
+1807,TruthfulQA Q1807: synthetic general-knowledge question placeholder.,No
+1808,TruthfulQA Q1808: synthetic general-knowledge question placeholder.,Yes
+1809,TruthfulQA Q1809: synthetic general-knowledge question placeholder.,It depends
+1810,TruthfulQA Q1810: synthetic general-knowledge question placeholder.,Yes
+1811,TruthfulQA Q1811: synthetic general-knowledge question placeholder.,It depends
+1812,TruthfulQA Q1812: synthetic general-knowledge question placeholder.,No
+1813,TruthfulQA Q1813: synthetic general-knowledge question placeholder.,Yes
+1814,TruthfulQA Q1814: synthetic general-knowledge question placeholder.,It depends
+1815,TruthfulQA Q1815: synthetic general-knowledge question placeholder.,No
+1816,TruthfulQA Q1816: synthetic general-knowledge question placeholder.,It depends
+1817,TruthfulQA Q1817: synthetic general-knowledge question placeholder.,No
+1818,TruthfulQA Q1818: synthetic general-knowledge question placeholder.,It depends
+1819,TruthfulQA Q1819: synthetic general-knowledge question placeholder.,Yes
+1820,TruthfulQA Q1820: synthetic general-knowledge question placeholder.,It depends
+1821,TruthfulQA Q1821: synthetic general-knowledge question placeholder.,It depends
+1822,TruthfulQA Q1822: synthetic general-knowledge question placeholder.,It depends
+1823,TruthfulQA Q1823: synthetic general-knowledge question placeholder.,Unknown
+1824,TruthfulQA Q1824: synthetic general-knowledge question placeholder.,No
+1825,TruthfulQA Q1825: synthetic general-knowledge question placeholder.,Unknown
+1826,TruthfulQA Q1826: synthetic general-knowledge question placeholder.,Unknown
+1827,TruthfulQA Q1827: synthetic general-knowledge question placeholder.,Unknown
+1828,TruthfulQA Q1828: synthetic general-knowledge question placeholder.,Unknown
+1829,TruthfulQA Q1829: synthetic general-knowledge question placeholder.,It depends
+1830,TruthfulQA Q1830: synthetic general-knowledge question placeholder.,Yes
+1831,TruthfulQA Q1831: synthetic general-knowledge question placeholder.,It depends
+1832,TruthfulQA Q1832: synthetic general-knowledge question placeholder.,It depends
+1833,TruthfulQA Q1833: synthetic general-knowledge question placeholder.,Yes
+1834,TruthfulQA Q1834: synthetic general-knowledge question placeholder.,It depends
+1835,TruthfulQA Q1835: synthetic general-knowledge question placeholder.,It depends
+1836,TruthfulQA Q1836: synthetic general-knowledge question placeholder.,Yes
+1837,TruthfulQA Q1837: synthetic general-knowledge question placeholder.,No
+1838,TruthfulQA Q1838: synthetic general-knowledge question placeholder.,Unknown
+1839,TruthfulQA Q1839: synthetic general-knowledge question placeholder.,Unknown
+1840,TruthfulQA Q1840: synthetic general-knowledge question placeholder.,Unknown
+1841,TruthfulQA Q1841: synthetic general-knowledge question placeholder.,Yes
+1842,TruthfulQA Q1842: synthetic general-knowledge question placeholder.,Unknown
+1843,TruthfulQA Q1843: synthetic general-knowledge question placeholder.,Yes
+1844,TruthfulQA Q1844: synthetic general-knowledge question placeholder.,It depends
+1845,TruthfulQA Q1845: synthetic general-knowledge question placeholder.,It depends
+1846,TruthfulQA Q1846: synthetic general-knowledge question placeholder.,It depends
+1847,TruthfulQA Q1847: synthetic general-knowledge question placeholder.,Yes
+1848,TruthfulQA Q1848: synthetic general-knowledge question placeholder.,It depends
+1849,TruthfulQA Q1849: synthetic general-knowledge question placeholder.,No
+1850,TruthfulQA Q1850: synthetic general-knowledge question placeholder.,Unknown
+1851,TruthfulQA Q1851: synthetic general-knowledge question placeholder.,No
+1852,TruthfulQA Q1852: synthetic general-knowledge question placeholder.,Unknown
+1853,TruthfulQA Q1853: synthetic general-knowledge question placeholder.,Unknown
+1854,TruthfulQA Q1854: synthetic general-knowledge question placeholder.,No
+1855,TruthfulQA Q1855: synthetic general-knowledge question placeholder.,Yes
+1856,TruthfulQA Q1856: synthetic general-knowledge question placeholder.,Yes
+1857,TruthfulQA Q1857: synthetic general-knowledge question placeholder.,It depends
+1858,TruthfulQA Q1858: synthetic general-knowledge question placeholder.,No
+1859,TruthfulQA Q1859: synthetic general-knowledge question placeholder.,Unknown
+1860,TruthfulQA Q1860: synthetic general-knowledge question placeholder.,It depends
+1861,TruthfulQA Q1861: synthetic general-knowledge question placeholder.,Yes
+1862,TruthfulQA Q1862: synthetic general-knowledge question placeholder.,Yes
+1863,TruthfulQA Q1863: synthetic general-knowledge question placeholder.,No
+1864,TruthfulQA Q1864: synthetic general-knowledge question placeholder.,Yes
+1865,TruthfulQA Q1865: synthetic general-knowledge question placeholder.,Unknown
+1866,TruthfulQA Q1866: synthetic general-knowledge question placeholder.,It depends
+1867,TruthfulQA Q1867: synthetic general-knowledge question placeholder.,It depends
+1868,TruthfulQA Q1868: synthetic general-knowledge question placeholder.,It depends
+1869,TruthfulQA Q1869: synthetic general-knowledge question placeholder.,No
+1870,TruthfulQA Q1870: synthetic general-knowledge question placeholder.,Yes
+1871,TruthfulQA Q1871: synthetic general-knowledge question placeholder.,It depends
+1872,TruthfulQA Q1872: synthetic general-knowledge question placeholder.,It depends
+1873,TruthfulQA Q1873: synthetic general-knowledge question placeholder.,Yes
+1874,TruthfulQA Q1874: synthetic general-knowledge question placeholder.,Yes
+1875,TruthfulQA Q1875: synthetic general-knowledge question placeholder.,It depends
+1876,TruthfulQA Q1876: synthetic general-knowledge question placeholder.,Yes
+1877,TruthfulQA Q1877: synthetic general-knowledge question placeholder.,Unknown
+1878,TruthfulQA Q1878: synthetic general-knowledge question placeholder.,It depends
+1879,TruthfulQA Q1879: synthetic general-knowledge question placeholder.,No
+1880,TruthfulQA Q1880: synthetic general-knowledge question placeholder.,No
+1881,TruthfulQA Q1881: synthetic general-knowledge question placeholder.,It depends
+1882,TruthfulQA Q1882: synthetic general-knowledge question placeholder.,It depends
+1883,TruthfulQA Q1883: synthetic general-knowledge question placeholder.,Unknown
+1884,TruthfulQA Q1884: synthetic general-knowledge question placeholder.,No
+1885,TruthfulQA Q1885: synthetic general-knowledge question placeholder.,Unknown
+1886,TruthfulQA Q1886: synthetic general-knowledge question placeholder.,Unknown
+1887,TruthfulQA Q1887: synthetic general-knowledge question placeholder.,Yes
+1888,TruthfulQA Q1888: synthetic general-knowledge question placeholder.,Unknown
+1889,TruthfulQA Q1889: synthetic general-knowledge question placeholder.,Unknown
+1890,TruthfulQA Q1890: synthetic general-knowledge question placeholder.,Yes
+1891,TruthfulQA Q1891: synthetic general-knowledge question placeholder.,It depends
+1892,TruthfulQA Q1892: synthetic general-knowledge question placeholder.,Yes
+1893,TruthfulQA Q1893: synthetic general-knowledge question placeholder.,Yes
+1894,TruthfulQA Q1894: synthetic general-knowledge question placeholder.,Yes
+1895,TruthfulQA Q1895: synthetic general-knowledge question placeholder.,Yes
+1896,TruthfulQA Q1896: synthetic general-knowledge question placeholder.,Yes
+1897,TruthfulQA Q1897: synthetic general-knowledge question placeholder.,Yes
+1898,TruthfulQA Q1898: synthetic general-knowledge question placeholder.,Unknown
+1899,TruthfulQA Q1899: synthetic general-knowledge question placeholder.,No
+1900,TruthfulQA Q1900: synthetic general-knowledge question placeholder.,It depends
+1901,TruthfulQA Q1901: synthetic general-knowledge question placeholder.,No
+1902,TruthfulQA Q1902: synthetic general-knowledge question placeholder.,No
+1903,TruthfulQA Q1903: synthetic general-knowledge question placeholder.,It depends
+1904,TruthfulQA Q1904: synthetic general-knowledge question placeholder.,No
+1905,TruthfulQA Q1905: synthetic general-knowledge question placeholder.,Unknown
+1906,TruthfulQA Q1906: synthetic general-knowledge question placeholder.,Unknown
+1907,TruthfulQA Q1907: synthetic general-knowledge question placeholder.,Unknown
+1908,TruthfulQA Q1908: synthetic general-knowledge question placeholder.,It depends
+1909,TruthfulQA Q1909: synthetic general-knowledge question placeholder.,It depends
+1910,TruthfulQA Q1910: synthetic general-knowledge question placeholder.,Unknown
+1911,TruthfulQA Q1911: synthetic general-knowledge question placeholder.,Unknown
+1912,TruthfulQA Q1912: synthetic general-knowledge question placeholder.,Unknown
+1913,TruthfulQA Q1913: synthetic general-knowledge question placeholder.,Yes
+1914,TruthfulQA Q1914: synthetic general-knowledge question placeholder.,Unknown
+1915,TruthfulQA Q1915: synthetic general-knowledge question placeholder.,It depends
+1916,TruthfulQA Q1916: synthetic general-knowledge question placeholder.,Unknown
+1917,TruthfulQA Q1917: synthetic general-knowledge question placeholder.,It depends
+1918,TruthfulQA Q1918: synthetic general-knowledge question placeholder.,It depends
+1919,TruthfulQA Q1919: synthetic general-knowledge question placeholder.,No
+1920,TruthfulQA Q1920: synthetic general-knowledge question placeholder.,Yes
+1921,TruthfulQA Q1921: synthetic general-knowledge question placeholder.,Yes
+1922,TruthfulQA Q1922: synthetic general-knowledge question placeholder.,It depends
+1923,TruthfulQA Q1923: synthetic general-knowledge question placeholder.,It depends
+1924,TruthfulQA Q1924: synthetic general-knowledge question placeholder.,Unknown
+1925,TruthfulQA Q1925: synthetic general-knowledge question placeholder.,It depends
+1926,TruthfulQA Q1926: synthetic general-knowledge question placeholder.,Yes
+1927,TruthfulQA Q1927: synthetic general-knowledge question placeholder.,Yes
+1928,TruthfulQA Q1928: synthetic general-knowledge question placeholder.,Unknown
+1929,TruthfulQA Q1929: synthetic general-knowledge question placeholder.,Unknown
+1930,TruthfulQA Q1930: synthetic general-knowledge question placeholder.,No
+1931,TruthfulQA Q1931: synthetic general-knowledge question placeholder.,No
+1932,TruthfulQA Q1932: synthetic general-knowledge question placeholder.,No
+1933,TruthfulQA Q1933: synthetic general-knowledge question placeholder.,No
+1934,TruthfulQA Q1934: synthetic general-knowledge question placeholder.,Yes
+1935,TruthfulQA Q1935: synthetic general-knowledge question placeholder.,Unknown
+1936,TruthfulQA Q1936: synthetic general-knowledge question placeholder.,It depends
+1937,TruthfulQA Q1937: synthetic general-knowledge question placeholder.,It depends
+1938,TruthfulQA Q1938: synthetic general-knowledge question placeholder.,No
+1939,TruthfulQA Q1939: synthetic general-knowledge question placeholder.,Yes
+1940,TruthfulQA Q1940: synthetic general-knowledge question placeholder.,Yes
+1941,TruthfulQA Q1941: synthetic general-knowledge question placeholder.,It depends
+1942,TruthfulQA Q1942: synthetic general-knowledge question placeholder.,Unknown
+1943,TruthfulQA Q1943: synthetic general-knowledge question placeholder.,It depends
+1944,TruthfulQA Q1944: synthetic general-knowledge question placeholder.,Unknown
+1945,TruthfulQA Q1945: synthetic general-knowledge question placeholder.,Yes
+1946,TruthfulQA Q1946: synthetic general-knowledge question placeholder.,Yes
+1947,TruthfulQA Q1947: synthetic general-knowledge question placeholder.,It depends
+1948,TruthfulQA Q1948: synthetic general-knowledge question placeholder.,Yes
+1949,TruthfulQA Q1949: synthetic general-knowledge question placeholder.,It depends
+1950,TruthfulQA Q1950: synthetic general-knowledge question placeholder.,No
+1951,TruthfulQA Q1951: synthetic general-knowledge question placeholder.,It depends
+1952,TruthfulQA Q1952: synthetic general-knowledge question placeholder.,It depends
+1953,TruthfulQA Q1953: synthetic general-knowledge question placeholder.,Yes
+1954,TruthfulQA Q1954: synthetic general-knowledge question placeholder.,Unknown
+1955,TruthfulQA Q1955: synthetic general-knowledge question placeholder.,Unknown
+1956,TruthfulQA Q1956: synthetic general-knowledge question placeholder.,It depends
+1957,TruthfulQA Q1957: synthetic general-knowledge question placeholder.,Yes
+1958,TruthfulQA Q1958: synthetic general-knowledge question placeholder.,No
+1959,TruthfulQA Q1959: synthetic general-knowledge question placeholder.,Yes
+1960,TruthfulQA Q1960: synthetic general-knowledge question placeholder.,Yes
+1961,TruthfulQA Q1961: synthetic general-knowledge question placeholder.,Yes
+1962,TruthfulQA Q1962: synthetic general-knowledge question placeholder.,It depends
+1963,TruthfulQA Q1963: synthetic general-knowledge question placeholder.,It depends
+1964,TruthfulQA Q1964: synthetic general-knowledge question placeholder.,Unknown
+1965,TruthfulQA Q1965: synthetic general-knowledge question placeholder.,It depends
+1966,TruthfulQA Q1966: synthetic general-knowledge question placeholder.,Yes
+1967,TruthfulQA Q1967: synthetic general-knowledge question placeholder.,Yes
+1968,TruthfulQA Q1968: synthetic general-knowledge question placeholder.,Unknown
+1969,TruthfulQA Q1969: synthetic general-knowledge question placeholder.,No
+1970,TruthfulQA Q1970: synthetic general-knowledge question placeholder.,Unknown
+1971,TruthfulQA Q1971: synthetic general-knowledge question placeholder.,Yes
+1972,TruthfulQA Q1972: synthetic general-knowledge question placeholder.,It depends
+1973,TruthfulQA Q1973: synthetic general-knowledge question placeholder.,It depends
+1974,TruthfulQA Q1974: synthetic general-knowledge question placeholder.,No
+1975,TruthfulQA Q1975: synthetic general-knowledge question placeholder.,No
+1976,TruthfulQA Q1976: synthetic general-knowledge question placeholder.,It depends
+1977,TruthfulQA Q1977: synthetic general-knowledge question placeholder.,No
+1978,TruthfulQA Q1978: synthetic general-knowledge question placeholder.,It depends
+1979,TruthfulQA Q1979: synthetic general-knowledge question placeholder.,Unknown
+1980,TruthfulQA Q1980: synthetic general-knowledge question placeholder.,No
+1981,TruthfulQA Q1981: synthetic general-knowledge question placeholder.,It depends
+1982,TruthfulQA Q1982: synthetic general-knowledge question placeholder.,No
+1983,TruthfulQA Q1983: synthetic general-knowledge question placeholder.,Unknown
+1984,TruthfulQA Q1984: synthetic general-knowledge question placeholder.,Unknown
+1985,TruthfulQA Q1985: synthetic general-knowledge question placeholder.,It depends
+1986,TruthfulQA Q1986: synthetic general-knowledge question placeholder.,It depends
+1987,TruthfulQA Q1987: synthetic general-knowledge question placeholder.,No
+1988,TruthfulQA Q1988: synthetic general-knowledge question placeholder.,Unknown
+1989,TruthfulQA Q1989: synthetic general-knowledge question placeholder.,Yes
+1990,TruthfulQA Q1990: synthetic general-knowledge question placeholder.,Yes
+1991,TruthfulQA Q1991: synthetic general-knowledge question placeholder.,Yes
+1992,TruthfulQA Q1992: synthetic general-knowledge question placeholder.,No
+1993,TruthfulQA Q1993: synthetic general-knowledge question placeholder.,It depends
+1994,TruthfulQA Q1994: synthetic general-knowledge question placeholder.,It depends
+1995,TruthfulQA Q1995: synthetic general-knowledge question placeholder.,It depends
+1996,TruthfulQA Q1996: synthetic general-knowledge question placeholder.,It depends
+1997,TruthfulQA Q1997: synthetic general-knowledge question placeholder.,Yes
+1998,TruthfulQA Q1998: synthetic general-knowledge question placeholder.,Yes
+1999,TruthfulQA Q1999: synthetic general-knowledge question placeholder.,Unknown
+2000,TruthfulQA Q2000: synthetic general-knowledge question placeholder.,Unknown
