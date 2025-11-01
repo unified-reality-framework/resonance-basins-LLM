@@ -1,0 +1,15 @@
+# Random seeds used for all statistical runs
+# ------------------------------------------
+# Five independent seeds corresponding to distinct model initialisations.
+# Used across GSM8K and TruthfulQA benchmarks to compute 95% CI and t-tests.
+
+42
+31415
+27182
+16180
+12345
+
+# Each seed controls: model sampling order, prompt selection, and RNG state
+# for both baseline and mitigated runs (see evaluation_notebook.ipynb).
+# Average results reported in Table I and II correspond to aggregate statistics
+# over these five seeds.
