@@ -1,0 +1,8 @@
+parameter,value,note
+kappa,0.8,basin stiffness
+tau,1.2,activation threshold
+beta,0.4,damping coefficient (= kappa/2)
+batch_size,32,evaluation batch size
+n_runs,20,independent seeds / repetitions
+seeds,"[42, 77, 93, 101, 256]",example seeds used in analysis scripts
+T_sym,0.05,symbolic temperature (if applicable)
