@@ -47,7 +47,7 @@ Seeds
   author  = {Markov, Paul D.},
   journal = {Journal of Machine Learning and Deep Learning (JMLDL)},
   year    = {2025},
-  doi     = {10.5281/zenodo.XXXXXXX}
+  doi     = {DOI: 10.5281/zenodo.17504034}
 }
 
 🧠 Ethics & Licence
