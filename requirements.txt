@@ -1,0 +1,22 @@
+# Resonance Basins – JMLDL 2025
+# Tested with Python 3.10+
+
+numpy==1.26.4
+pandas==2.2.2
+torch==2.2.2
+scipy==1.13.1
+matplotlib==3.9.2
+tqdm==4.66.4
+seaborn==0.13.2
+scikit-learn==1.5.2
+
+# For reproducibility and packaging
+pyyaml==6.0.2
+requests==2.32.3
+
+Notes for upload
+	•	Include this file in the root of your repo (/resonance-basins/requirements.txt).
+	•	Add to the README under Environment setup:
+pip install -r requirements.txt
+
+Zenodo metadata → “Software Environment: Python 3.10; PyTorch 2.2.2; NumPy 1.26.4”
